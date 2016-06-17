@@ -17,8 +17,8 @@ tokenCount = 0
 
 inputFile = input("Please enter the name of a csv file (don't forget the extension): ");
 
-csvFile = open(inputFile, 'rt') 
 try:
+	csvFile = open(inputFile, 'rt') 
 	fileReader = csv.reader(csvFile)
 	for row in fileReader:
 		if(row[3] == "Penny"):
@@ -66,9 +66,12 @@ try:
 				 (quarterCount*0.25) + (dollarCount*1) + (twoDollarCount*2) + \
 				 (fiveDollarCount*5) + (tenDollarCount*10) + (twentyDollarCount*20) + \
 				 (fiftyDollarCount*50) + (hundredDollarCount*100)
+except FileNotFoundError as e:
+	print("Could not find the file specified.")
+	var = input("Press 'Enter' to close")
 finally:
 	csvFile.close()
+	print("Total value in cash transactions: $", totalValue)
 
-print("Total value in cash transactions: $", totalValue)
 var = input("Press 'Enter' to close")
 
