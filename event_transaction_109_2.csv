@@ -1,0 +1,931 @@
+Bus Number,Route Number,Transaction Time,Message,Driver Name,Media Id,Fare Type,Fare Owed,Fare Paid,Transaction Type,Payment Media,Payment Method
+109,0,2016-03-02 04:43:28,Coin reader is in normal position,Default Default - (Inactive),,,0.00,0.00,,,
+109,0,2016-03-02 04:43:28,Lid closed,Default Default - (Inactive),,,0.00,0.00,,,
+109,0,2016-03-02 04:43:28,Side door closed,Default Default - (Inactive),,,0.00,0.00,,,
+109,0,2016-03-02 04:43:28,Front door closed,Default Default - (Inactive),,,0.00,0.00,,,
+109,0,2016-03-02 04:43:28,Bus ID is 9 and serial number is 05127021,Default Default - (Inactive),,,0.00,0.00,,,
+109,0,2016-03-02 04:44:28,GPS locked,Default Default - (Inactive),,,0.00,0.00,,,
+109,05 A,2016-03-02 06:02:19,Valid logon,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 06:39:06,media product UVA Academic Accepted,Constance Mcguire,12081473100017,,0.00,0.00,,,
+109,05 A,2016-03-02 06:39:06,Barcode media has been swiped.,Constance Mcguire,12081473100017,,0.00,0.00,,,
+109,05 A,2016-03-02 06:39:06,Transaction Processed,Constance Mcguire,12081473100017,UVA Academic,0.00,0.00,normal,Barcode,3rd Party Media
+109,05 A,2016-03-02 06:40:00,Transaction Processed,Constance Mcguire,1048,30 Day Full,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 06:40:00,media product  Accepted,Constance Mcguire,1048,,0.00,0.00,,,
+109,05 A,2016-03-02 06:40:40,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 06:40:41,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 06:40:43,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 06:40:44,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 06:40:45,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 06:40:46,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 06:40:48,Daypass Issued,Constance Mcguire,CH3010906V0G32618040,,0.00,0.00,,,
+109,05 A,2016-03-02 06:40:48,Transaction Processed,Constance Mcguire,CH3010906V0G32618040,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 06:40:54,Transaction Processed,Constance Mcguire,,ADA,0.00,0.00,override,Manual,
+109,05 A,2016-03-02 06:40:54,Override ADA,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 06:40:56,media product UVA Academic Accepted,Constance Mcguire,57030706901017,,0.00,0.00,,,
+109,05 A,2016-03-02 06:40:56,Barcode media has been swiped.,Constance Mcguire,57030706901017,,0.00,0.00,,,
+109,05 A,2016-03-02 06:40:56,Transaction Processed,Constance Mcguire,57030706901017,UVA Academic,0.00,0.00,normal,Barcode,3rd Party Media
+109,05 A,2016-03-02 06:43:22,Transaction Processed,Constance Mcguire,92847453900017,UVA Academic,0.00,0.00,normal,Barcode,3rd Party Media
+109,05 A,2016-03-02 06:43:22,media product UVA Academic Accepted,Constance Mcguire,92847453900017,,0.00,0.00,,,
+109,05 A,2016-03-02 06:43:22,Barcode media has been swiped.,Constance Mcguire,92847453900017,,0.00,0.00,,,
+109,05 A,2016-03-02 06:45:11,media product UVA Health Accepted,Constance Mcguire,24685,,0.00,0.00,,,
+109,05 A,2016-03-02 06:45:11,Barcode media has been swiped.,Constance Mcguire,24685,,0.00,0.00,,,
+109,05 A,2016-03-02 06:45:11,Transaction Processed,Constance Mcguire,24685,UVA Health,0.00,0.00,normal,Barcode,3rd Party Media
+109,05 A,2016-03-02 06:46:10,Transaction Processed,Constance Mcguire,28056,UVA Health,0.00,0.00,normal,Barcode,3rd Party Media
+109,05 A,2016-03-02 06:46:10,media product UVA Health Accepted,Constance Mcguire,28056,,0.00,0.00,,,
+109,05 A,2016-03-02 06:46:10,Barcode media has been swiped.,Constance Mcguire,28056,,0.00,0.00,,,
+109,05 A,2016-03-02 06:49:36,Change Route (05 A,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 06:55:25,media product 24 Hour Full Accepted,Constance Mcguire,CH3010D0F10G3260U040,,0.00,0.00,,,
+109,05 A,2016-03-02 06:55:25,Barcode media has been swiped.,Constance Mcguire,CH3010D0F10G3260U040,,0.00,0.00,,,
+109,05 A,2016-03-02 06:55:25,Transaction Processed,Constance Mcguire,CH3010D0F10G3260U040,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 06:58:40,Transaction Processed,Constance Mcguire,CH3010M04V0G31702041,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 06:58:40,media product 24 Hour Full Accepted,Constance Mcguire,CH3010M04V0G31702041,,0.00,0.00,,,
+109,05 A,2016-03-02 06:58:40,Barcode media has been swiped.,Constance Mcguire,CH3010M04V0G31702041,,0.00,0.00,,,
+109,05 A,2016-03-02 06:58:53,media product UVA Health Accepted,Constance Mcguire,002707773,,0.00,0.00,,,
+109,05 A,2016-03-02 06:58:53,Barcode media has been swiped.,Constance Mcguire,002707773,,0.00,0.00,,,
+109,05 A,2016-03-02 06:58:53,Transaction Processed,Constance Mcguire,002707773,UVA Health,0.00,0.00,normal,Barcode,3rd Party Media
+109,05 A,2016-03-02 07:02:13,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 07:02:13,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 07:02:14,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 07:02:21,Transaction Processed,Constance Mcguire,,One Ride Full,0.75,0.75,normal,Cash,Value
+109,05 A,2016-03-02 07:07:03,Bill Rejected,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 07:07:06,Bill Rejected,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 07:07:19,Dollar,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 07:07:21,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 07:07:24,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 07:07:25,Daypass Issued,Constance Mcguire,CH301090610G32707041,,0.00,0.00,,,
+109,05 A,2016-03-02 07:07:26,Transaction Processed,Constance Mcguire,CH301090610G32707041,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 07:08:06,Transaction Processed,Constance Mcguire,23278,UVA Health,0.00,0.00,normal,Barcode,3rd Party Media
+109,05 A,2016-03-02 07:08:06,media product UVA Health Accepted,Constance Mcguire,23278,,0.00,0.00,,,
+109,05 A,2016-03-02 07:08:06,Barcode media has been swiped.,Constance Mcguire,23278,,0.00,0.00,,,
+109,05 A,2016-03-02 07:09:00,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 07:09:01,Nickel,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 07:09:03,Nickel,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 07:09:04,Dime,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 07:09:05,Dime,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 07:09:07,Dime,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 07:09:08,Dime,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 07:09:18,Transaction Processed,Constance Mcguire,,One Ride Full,0.75,0.75,normal,Cash,Value
+109,05 A,2016-03-02 07:09:38,Transaction Processed,Constance Mcguire,3622,30 Day Full,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 07:09:38,media product  Accepted,Constance Mcguire,3622,,0.00,0.00,,,
+109,05 A,2016-03-02 07:17:38,media product  Accepted,Constance Mcguire,4646,,0.00,0.00,,,
+109,05 A,2016-03-02 07:17:38,Transaction Processed,Constance Mcguire,4646,30 Day Full,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 07:21:55,Transaction Processed,Constance Mcguire,5031,30 Day Full,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 07:21:55,media product  Accepted,Constance Mcguire,5031,,0.00,0.00,,,
+109,05 A,2016-03-02 07:31:19,media product  Accepted,Constance Mcguire,5101,,0.00,0.00,,,
+109,05 A,2016-03-02 07:31:19,Transaction Processed,Constance Mcguire,5101,30 Day Full,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 07:31:28,Transaction Processed,Constance Mcguire,CH301060A10G3270H043,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 07:31:28,media product 24 Hour Full Accepted,Constance Mcguire,CH301060A10G3270H043,,0.00,0.00,,,
+109,05 A,2016-03-02 07:31:28,Barcode media has been swiped.,Constance Mcguire,CH301060A10G3270H043,,0.00,0.00,,,
+109,05 A,2016-03-02 07:42:40,Change Route (05 A,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 07:43:41,media product  Accepted,Constance Mcguire,1248,,0.00,0.00,,,
+109,05 A,2016-03-02 07:43:41,Transaction Processed,Constance Mcguire,1248,30 Day Reduced,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 07:59:27,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 07:59:29,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 07:59:31,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 07:59:34,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 07:59:35,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 07:59:38,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 07:59:39,Daypass Issued,Constance Mcguire,CH3010906V0G3271R042,,0.00,0.00,,,
+109,05 A,2016-03-02 07:59:39,Transaction Processed,Constance Mcguire,CH3010906V0G3271R042,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 08:10:30,Dollar,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 08:10:30,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 08:10:31,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 08:10:33,Daypass Issued,Constance Mcguire,CH3010906V0G3280A043,,0.00,0.00,,,
+109,05 A,2016-03-02 08:10:33,Transaction Processed,Constance Mcguire,CH3010906V0G3280A043,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 08:10:38,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 08:10:39,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 08:10:40,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 08:10:41,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 08:10:43,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 08:10:44,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 08:10:45,Daypass Issued,Constance Mcguire,CH3010906V0G3280A044,,0.00,0.00,,,
+109,05 A,2016-03-02 08:10:45,Transaction Processed,Constance Mcguire,CH3010906V0G3280A044,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 08:10:49,Transaction Processed,Constance Mcguire,5071,30 Day Reduced,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 08:10:49,media product  Accepted,Constance Mcguire,5071,,0.00,0.00,,,
+109,05 A,2016-03-02 08:11:42,media product UVA Academic Accepted,Constance Mcguire,14303666500017,,0.00,0.00,,,
+109,05 A,2016-03-02 08:11:42,Barcode media has been swiped.,Constance Mcguire,14303666500017,,0.00,0.00,,,
+109,05 A,2016-03-02 08:11:42,Transaction Processed,Constance Mcguire,14303666500017,UVA Academic,0.00,0.00,normal,Barcode,3rd Party Media
+109,05 A,2016-03-02 08:12:19,Transaction Processed,Constance Mcguire,38432,UVA Health,0.00,0.00,normal,Barcode,3rd Party Media
+109,05 A,2016-03-02 08:12:19,media product UVA Health Accepted,Constance Mcguire,38432,,0.00,0.00,,,
+109,05 A,2016-03-02 08:12:19,Barcode media has been swiped.,Constance Mcguire,38432,,0.00,0.00,,,
+109,05 A,2016-03-02 08:13:41,media product UVA Health Accepted,Constance Mcguire,38500,,0.00,0.00,,,
+109,05 A,2016-03-02 08:13:41,Barcode media has been swiped.,Constance Mcguire,38500,,0.00,0.00,,,
+109,05 A,2016-03-02 08:13:41,Transaction Processed,Constance Mcguire,38500,UVA Health,0.00,0.00,normal,Barcode,3rd Party Media
+109,05 A,2016-03-02 08:13:43,Transaction Processed,Constance Mcguire,26726750001017,UVA Academic,0.00,0.00,normal,Barcode,3rd Party Media
+109,05 A,2016-03-02 08:13:43,media product UVA Academic Accepted,Constance Mcguire,26726750001017,,0.00,0.00,,,
+109,05 A,2016-03-02 08:13:43,Barcode media has been swiped.,Constance Mcguire,26726750001017,,0.00,0.00,,,
+109,05 A,2016-03-02 08:14:59,media product 24 Hour Full Accepted,Constance Mcguire,CH3010308V0G31C0D04H,,0.00,0.00,,,
+109,05 A,2016-03-02 08:14:59,Barcode media has been swiped.,Constance Mcguire,CH3010308V0G31C0D04H,,0.00,0.00,,,
+109,05 A,2016-03-02 08:14:59,Transaction Processed,Constance Mcguire,CH3010308V0G31C0D04H,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 08:15:05,Transaction Processed,Constance Mcguire,43887,UVA Health,0.00,0.00,normal,Barcode,3rd Party Media
+109,05 A,2016-03-02 08:15:05,media product UVA Health Accepted,Constance Mcguire,43887,,0.00,0.00,,,
+109,05 A,2016-03-02 08:15:05,Barcode media has been swiped.,Constance Mcguire,43887,,0.00,0.00,,,
+109,05 A,2016-03-02 08:15:08,Barcode media has been swiped.,Constance Mcguire,15785,,0.00,0.00,,,
+109,05 A,2016-03-02 08:15:09,media product UVA Health Accepted,Constance Mcguire,15785,,0.00,0.00,,,
+109,05 A,2016-03-02 08:15:09,Transaction Processed,Constance Mcguire,15785,UVA Health,0.00,0.00,normal,Barcode,3rd Party Media
+109,05 A,2016-03-02 08:15:12,Transaction Processed,Constance Mcguire,,ADA,0.00,0.00,override,Manual,
+109,05 A,2016-03-02 08:15:12,Override ADA,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 08:15:14,media product UVA Health Accepted,Constance Mcguire,182716,,0.00,0.00,,,
+109,05 A,2016-03-02 08:15:14,Barcode media has been swiped.,Constance Mcguire,182716,,0.00,0.00,,,
+109,05 A,2016-03-02 08:15:14,Transaction Processed,Constance Mcguire,182716,UVA Health,0.00,0.00,normal,Barcode,3rd Party Media
+109,05 A,2016-03-02 08:15:56,Transaction Processed,Constance Mcguire,67269954204017,UVA Academic,0.00,0.00,normal,Barcode,3rd Party Media
+109,05 A,2016-03-02 08:15:56,media product UVA Academic Accepted,Constance Mcguire,67269954204017,,0.00,0.00,,,
+109,05 A,2016-03-02 08:15:56,Barcode media has been swiped.,Constance Mcguire,67269954204017,,0.00,0.00,,,
+109,05 A,2016-03-02 08:16:01,Dollar,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 08:16:02,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 08:16:02,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 08:16:03,Daypass Issued,Constance Mcguire,CH3010906V0G3280G045,,0.00,0.00,,,
+109,05 A,2016-03-02 08:16:03,Transaction Processed,Constance Mcguire,CH3010906V0G3280G045,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 08:16:11,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 08:16:13,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 08:16:13,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 08:16:16,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 08:16:17,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 08:16:21,Coin Rejected,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 08:16:28,Coin Rejected,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 08:17:06,Daypass Issued,Constance Mcguire,CH3010906V0G3280H046,,0.00,0.00,,,
+109,05 A,2016-03-02 08:17:06,24 Hour Promo ($0.25 Override),Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 08:17:06,Transaction Processed,Constance Mcguire,CH3010906V0G3280H046,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 08:17:16,Transaction Processed,Constance Mcguire,5150,30 Day Full,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 08:17:16,media product  Accepted,Constance Mcguire,5150,,0.00,0.00,,,
+109,05 A,2016-03-02 08:18:03,media product  Accepted,Constance Mcguire,6224,,0.00,0.00,,,
+109,05 A,2016-03-02 08:18:03,Transaction Processed,Constance Mcguire,6224,30 Day Full,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 08:20:49,Transaction Processed,Constance Mcguire,78048603700017,UVA Academic,0.00,0.00,normal,Barcode,3rd Party Media
+109,05 A,2016-03-02 08:20:49,media product UVA Academic Accepted,Constance Mcguire,78048603700017,,0.00,0.00,,,
+109,05 A,2016-03-02 08:20:49,Barcode media has been swiped.,Constance Mcguire,78048603700017,,0.00,0.00,,,
+109,05 A,2016-03-02 08:20:55,media product  Accepted,Constance Mcguire,6354,,0.00,0.00,,,
+109,05 A,2016-03-02 08:20:55,Transaction Processed,Constance Mcguire,6354,30 Day Full,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 08:22:49,Dollar,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 08:22:49,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 08:22:50,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 08:22:50,Daypass Issued,Constance Mcguire,CH3010906V0G3280M047,,0.00,0.00,,,
+109,05 A,2016-03-02 08:22:50,Transaction Processed,Constance Mcguire,CH3010906V0G3280M047,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 08:22:59,Dollar,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 08:23:02,Transaction Processed,Constance Mcguire,,One Ride Full,0.75,0.75,normal,Cash,Value
+109,05 A,2016-03-02 08:23:04,Dollar,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 08:23:14,Transaction Processed,Constance Mcguire,,One Ride Full,0.75,0.75,normal,Cash,Value
+109,05 A,2016-03-02 08:23:15,Transaction Processed,Constance Mcguire,,Unknown,0.00,0.50,cancel by driver,Cash,Value
+109,05 A,2016-03-02 08:23:15,Cancelled Transaction ($0.50),Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 08:24:58,Dollar,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 08:24:58,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 08:24:59,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 08:25:00,Daypass Issued,Constance Mcguire,CH3010906V0G3280P048,,0.00,0.00,,,
+109,05 A,2016-03-02 08:25:00,Transaction Processed,Constance Mcguire,CH3010906V0G3280P048,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 08:25:05,Transaction Processed,Constance Mcguire,31855856600017,UVA Academic,0.00,0.00,normal,Barcode,3rd Party Media
+109,05 A,2016-03-02 08:25:05,media product UVA Academic Accepted,Constance Mcguire,31855856600017,,0.00,0.00,,,
+109,05 A,2016-03-02 08:25:05,Barcode media has been swiped.,Constance Mcguire,31855856600017,,0.00,0.00,,,
+109,05 A,2016-03-02 08:27:38,media product 24 Hour Full Accepted,Constance Mcguire,CH3010L03V0G32717041,,0.00,0.00,,,
+109,05 A,2016-03-02 08:27:38,Barcode media has been swiped.,Constance Mcguire,CH3010L03V0G32717041,,0.00,0.00,,,
+109,05 A,2016-03-02 08:27:38,Transaction Processed,Constance Mcguire,CH3010L03V0G32717041,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 08:30:06,Transaction Processed,Constance Mcguire,CH3010H0910G3271C042,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 08:30:06,media product 24 Hour Full Accepted,Constance Mcguire,CH3010H0910G3271C042,,0.00,0.00,,,
+109,05 A,2016-03-02 08:30:06,Barcode media has been swiped.,Constance Mcguire,CH3010H0910G3271C042,,0.00,0.00,,,
+109,05 A,2016-03-02 08:30:12,Dollar,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 08:30:14,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 08:30:15,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 08:30:16,Daypass Issued,Constance Mcguire,CH3010906V0G3280U049,,0.00,0.00,,,
+109,05 A,2016-03-02 08:30:17,Transaction Processed,Constance Mcguire,CH3010906V0G3280U049,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 08:30:27,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 08:30:28,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 08:30:29,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 08:30:31,media product UVA Health Accepted,Constance Mcguire,34019,,0.00,0.00,,,
+109,05 A,2016-03-02 08:30:31,Barcode media has been swiped.,Constance Mcguire,34019,,0.00,0.00,,,
+109,05 A,2016-03-02 08:30:31,Transaction Processed,Constance Mcguire,,One Ride Full,0.75,0.75,normal,Cash,Value
+109,05 A,2016-03-02 08:30:31,Transaction Processed,Constance Mcguire,34019,UVA Health,0.00,0.00,normal,Barcode,3rd Party Media
+109,05 A,2016-03-02 08:30:35,Transaction Processed,Constance Mcguire,4426,30 Day Reduced,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 08:30:35,media product  Accepted,Constance Mcguire,4426,,0.00,0.00,,,
+109,05 A,2016-03-02 08:36:10,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 08:36:12,Dollar,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 08:36:12,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 08:36:14,Daypass Issued,Constance Mcguire,CH3010906V0G3281404A,,0.00,0.00,,,
+109,05 A,2016-03-02 08:36:14,Transaction Processed,Constance Mcguire,CH3010906V0G3281404A,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 08:36:42,Dollar,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 08:36:44,Transaction Processed,Constance Mcguire,,One Ride Full,0.75,0.75,normal,Cash,Value
+109,05 A,2016-03-02 08:36:46,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 08:36:46,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 08:36:47,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 08:36:49,Transaction Processed,Constance Mcguire,,One Ride Full,0.75,0.75,normal,Cash,Value
+109,05 A,2016-03-02 08:37:02,Transaction Processed,Constance Mcguire,,Unknown,0.00,0.25,cancel by driver,Cash,Value
+109,05 A,2016-03-02 08:37:02,Cancelled Transaction ($0.25),Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 08:40:02,Barcode media has been swiped.,Constance Mcguire,CH3010B0EV0G31M0H056,,0.00,0.00,,,
+109,05 A,2016-03-02 08:40:03,media product 24 Hour Reduced Accepted,Constance Mcguire,CH3010B0EV0G31M0H056,,0.00,0.00,,,
+109,05 A,2016-03-02 08:40:03,Transaction Processed,Constance Mcguire,CH3010B0EV0G31M0H056,24 Hour Reduced,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 08:41:04,Transaction Processed,Constance Mcguire,6233,30 Day Full,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 08:41:04,media product  Accepted,Constance Mcguire,6233,,0.00,0.00,,,
+109,05 A,2016-03-02 08:41:11,Dollar,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 08:41:12,Nickel,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 08:41:13,Dime,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 08:41:14,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 08:41:15,Dime,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 08:41:16,Daypass Issued,Constance Mcguire,CH3010906V0G3281904B,,0.00,0.00,,,
+109,05 A,2016-03-02 08:41:16,Transaction Processed,Constance Mcguire,CH3010906V0G3281904B,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 08:44:30,Transaction Processed,Constance Mcguire,00050124902017,UVA Academic,0.00,0.00,normal,Barcode,3rd Party Media
+109,05 A,2016-03-02 08:44:30,media product UVA Academic Accepted,Constance Mcguire,00050124902017,,0.00,0.00,,,
+109,05 A,2016-03-02 08:44:30,Barcode media has been swiped.,Constance Mcguire,00050124902017,,0.00,0.00,,,
+109,05 A,2016-03-02 08:48:22,Change Route (05 A,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 09:01:18,media product 24 Hour Full Accepted,Constance Mcguire,CH3010H0910G31C1704K,,0.00,0.00,,,
+109,05 A,2016-03-02 09:01:18,Barcode media has been swiped.,Constance Mcguire,CH3010H0910G31C1704K,,0.00,0.00,,,
+109,05 A,2016-03-02 09:01:18,Transaction Processed,Constance Mcguire,CH3010H0910G31C1704K,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 09:01:19,Transaction Processed,Constance Mcguire,,ADA,0.00,0.00,override,Manual,
+109,05 A,2016-03-02 09:01:19,Override ADA,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 09:05:45,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 09:05:46,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 09:05:47,Nickel,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 09:05:50,Dime,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 09:05:51,Dime,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 09:05:56,Transaction Processed,Constance Mcguire,,One Ride Full,0.75,0.75,normal,Cash,Value
+109,05 A,2016-03-02 09:08:56,Change Route (05 A,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 09:09:45,media product 24 Hour Reduced Accepted,Constance Mcguire,CH3010408V0G32718050,,0.00,0.00,,,
+109,05 A,2016-03-02 09:09:45,Barcode media has been swiped.,Constance Mcguire,CH3010408V0G32718050,,0.00,0.00,,,
+109,05 A,2016-03-02 09:09:45,Transaction Processed,Constance Mcguire,CH3010408V0G32718050,24 Hour Reduced,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 09:31:50,Transaction Processed,Constance Mcguire,3860,30 Day Full,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 09:31:50,media product  Accepted,Constance Mcguire,3860,,0.00,0.00,,,
+109,05 A,2016-03-02 09:39:56,Dollar,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 09:39:56,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 09:39:57,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 09:39:59,Daypass Issued,Constance Mcguire,CH3010906V0G3291704C,,0.00,0.00,,,
+109,05 A,2016-03-02 09:39:59,Transaction Processed,Constance Mcguire,CH3010906V0G3291704C,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 09:40:39,Transaction Processed,Constance Mcguire,CH3010308V0G31A1904E,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 09:40:39,media product 24 Hour Full Accepted,Constance Mcguire,CH3010308V0G31A1904E,,0.00,0.00,,,
+109,05 A,2016-03-02 09:40:39,Barcode media has been swiped.,Constance Mcguire,CH3010308V0G31A1904E,,0.00,0.00,,,
+109,05 A,2016-03-02 09:42:56,Dollar,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 09:42:57,Dime,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 09:42:58,Dime,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 09:42:59,Dime,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 09:43:00,Dime,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 09:43:00,Dime,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 09:43:02,Daypass Issued,Constance Mcguire,CH3010906V0G3291B04D,,0.00,0.00,,,
+109,05 A,2016-03-02 09:43:02,Transaction Processed,Constance Mcguire,CH3010906V0G3291B04D,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 09:46:51,Transaction Processed,Constance Mcguire,3825,30 Day Full,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 09:46:51,media product  Accepted,Constance Mcguire,3825,,0.00,0.00,,,
+109,05 A,2016-03-02 09:50:18,media product  Accepted,Constance Mcguire,1043,,0.00,0.00,,,
+109,05 A,2016-03-02 09:50:18,Transaction Processed,Constance Mcguire,1043,30 Day Reduced,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 09:52:06,Change Route (05 A,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 09:53:21,media product 24 Hour Reduced Accepted,Constance Mcguire,CH3010K0210G3290C056,,0.00,0.00,,,
+109,05 A,2016-03-02 09:53:21,Barcode media has been swiped.,Constance Mcguire,CH3010K0210G3290C056,,0.00,0.00,,,
+109,05 A,2016-03-02 09:53:21,Transaction Processed,Constance Mcguire,CH3010K0210G3290C056,24 Hour Reduced,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 10:00:26,Transaction Processed,Constance Mcguire,CH3010J02V0G31F0K04C,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 10:00:26,media product 24 Hour Full Accepted,Constance Mcguire,CH3010J02V0G31F0K04C,,0.00,0.00,,,
+109,05 A,2016-03-02 10:00:26,Barcode media has been swiped.,Constance Mcguire,CH3010J02V0G31F0K04C,,0.00,0.00,,,
+109,05 A,2016-03-02 10:00:33,media product 24 Hour Full Accepted,Constance Mcguire,CH3010B0E10G3291F041,,0.00,0.00,,,
+109,05 A,2016-03-02 10:00:33,Barcode media has been swiped.,Constance Mcguire,CH3010B0E10G3291F041,,0.00,0.00,,,
+109,05 A,2016-03-02 10:00:33,Transaction Processed,Constance Mcguire,CH3010B0E10G3291F041,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 10:05:06,Dollar,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 10:05:10,Dollar,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 10:05:14,Dollar,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 10:05:20,Transaction Processed,Constance Mcguire,,One Ride Full,0.75,0.75,normal,Cash,Value
+109,05 A,2016-03-02 10:05:21,Transaction Processed,Constance Mcguire,,One Ride Full,0.75,0.75,normal,Cash,Value
+109,05 A,2016-03-02 10:05:22,Transaction Processed,Constance Mcguire,,One Ride Full,0.75,0.75,normal,Cash,Value
+109,05 A,2016-03-02 10:05:26,Transaction Processed,Constance Mcguire,,One Ride Full,0.75,0.75,normal,Cash,Value
+109,05 A,2016-03-02 10:14:02,Transaction Processed,Constance Mcguire,196286,UVA Health,0.00,0.00,normal,Barcode,3rd Party Media
+109,05 A,2016-03-02 10:14:02,media product UVA Health Accepted,Constance Mcguire,196286,,0.00,0.00,,,
+109,05 A,2016-03-02 10:14:02,Barcode media has been swiped.,Constance Mcguire,196286,,0.00,0.00,,,
+109,05 A,2016-03-02 10:21:03,media product 24 Hour Full Accepted,Constance Mcguire,CH3010207V0G3290C045,,0.00,0.00,,,
+109,05 A,2016-03-02 10:21:03,Barcode media has been swiped.,Constance Mcguire,CH3010207V0G3290C045,,0.00,0.00,,,
+109,05 A,2016-03-02 10:21:03,Transaction Processed,Constance Mcguire,CH3010207V0G3290C045,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 10:31:14,Transaction Processed,Constance Mcguire,926,30 Day Reduced,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 10:31:14,media product  Accepted,Constance Mcguire,926,,0.00,0.00,,,
+109,05 A,2016-03-02 10:34:20,media product  Accepted,Constance Mcguire,639,,0.00,0.00,,,
+109,05 A,2016-03-02 10:34:20,Transaction Processed,Constance Mcguire,639,Annual Full,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 10:36:59,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 10:37:01,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 10:37:11,Dollar,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 10:37:11,Daypass Issued,Constance Mcguire,CH301090610G32A1504E,,0.00,0.00,,,
+109,05 A,2016-03-02 10:37:12,Transaction Processed,Constance Mcguire,CH301090610G32A1504E,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 10:37:16,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 10:37:18,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 10:37:21,Dollar,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 10:37:22,Daypass Issued,Constance Mcguire,CH301090610G32A1504F,,0.00,0.00,,,
+109,05 A,2016-03-02 10:37:22,Transaction Processed,Constance Mcguire,CH301090610G32A1504F,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 10:41:10,Transaction Processed,Constance Mcguire,,ADA,0.00,0.00,override,Manual,
+109,05 A,2016-03-02 10:41:10,Override ADA,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 10:41:32,media product  Accepted,Constance Mcguire,4363,,0.00,0.00,,,
+109,05 A,2016-03-02 10:41:32,Transaction Processed,Constance Mcguire,4363,30 Day Full,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 10:41:42,Dollar,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 10:41:47,Dollar,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 10:41:48,Daypass Issued,Constance Mcguire,CH301090610G32A1904G,,0.00,0.00,,,
+109,05 A,2016-03-02 10:41:48,Transaction Processed,Constance Mcguire,CH301090610G32A1904G,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 10:41:54,Transaction Processed,Constance Mcguire,,Unknown,0.00,0.50,cancel by driver,Cash,Value
+109,05 A,2016-03-02 10:41:54,Cancelled Transaction ($0.50),Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 10:41:58,media product 24 Hour Full Accepted,Constance Mcguire,CH301040810G3280A043,,0.00,0.00,,,
+109,05 A,2016-03-02 10:41:58,Barcode media has been swiped.,Constance Mcguire,CH301040810G3280A043,,0.00,0.00,,,
+109,05 A,2016-03-02 10:41:58,Transaction Processed,Constance Mcguire,CH301040810G3280A043,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 10:42:01,Passback detected,Constance Mcguire,CH301040810G3280A043,,0.00,0.00,,,
+109,05 A,2016-03-02 10:42:01,Barcode media has been swiped.,Constance Mcguire,CH301040810G3280A043,,0.00,0.00,,,
+109,05 A,2016-03-02 10:42:18,Dollar,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 10:42:27,Transaction Processed,Constance Mcguire,,One Ride Full,0.75,0.75,normal,Cash,Value
+109,05 A,2016-03-02 10:42:29,Transaction Processed,Constance Mcguire,,Unknown,0.00,0.25,cancel by driver,Cash,Value
+109,05 A,2016-03-02 10:42:29,Cancelled Transaction ($0.25),Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 10:49:30,media product  Accepted,Constance Mcguire,4646,,0.00,0.00,,,
+109,05 A,2016-03-02 10:49:30,Transaction Processed,Constance Mcguire,4646,30 Day Full,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 10:49:50,Transaction Processed,Constance Mcguire,CH3010207V0G3290D046,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 10:49:50,media product 24 Hour Full Accepted,Constance Mcguire,CH3010207V0G3290D046,,0.00,0.00,,,
+109,05 A,2016-03-02 10:49:50,Barcode media has been swiped.,Constance Mcguire,CH3010207V0G3290D046,,0.00,0.00,,,
+109,05 A,2016-03-02 11:02:16,Override ADA,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 11:02:16,Transaction Processed,Constance Mcguire,,ADA,0.00,0.00,override,Manual,
+109,05 A,2016-03-02 11:05:56,Change Route (05 A,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 11:08:48,Dollar,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 11:09:24,Dollar,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 11:09:25,Daypass Issued,Constance Mcguire,CH3010906V0G32B0904H,,0.00,0.00,,,
+109,05 A,2016-03-02 11:09:25,Transaction Processed,Constance Mcguire,CH3010906V0G32B0904H,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 11:09:40,Transaction Processed,Constance Mcguire,,Unknown,0.00,0.50,cancel by driver,Cash,Value
+109,05 A,2016-03-02 11:09:40,Cancelled Transaction ($0.50),Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 11:11:23,Override ADA,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 11:11:23,Transaction Processed,Constance Mcguire,,ADA,0.00,0.00,override,Manual,
+109,05 A,2016-03-02 11:13:04,Transaction Processed,Constance Mcguire,3609,30 Day Full,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 11:13:04,media product  Accepted,Constance Mcguire,3609,,0.00,0.00,,,
+109,05 A,2016-03-02 11:13:12,media product UVA Health Accepted,Constance Mcguire,42921,,0.00,0.00,,,
+109,05 A,2016-03-02 11:13:12,Barcode media has been swiped.,Constance Mcguire,42921,,0.00,0.00,,,
+109,05 A,2016-03-02 11:13:12,Transaction Processed,Constance Mcguire,42921,UVA Health,0.00,0.00,normal,Barcode,3rd Party Media
+109,05 A,2016-03-02 11:14:59,Transaction Processed,Constance Mcguire,58462547400017,UVA Academic,0.00,0.00,normal,Barcode,3rd Party Media
+109,05 A,2016-03-02 11:14:59,media product UVA Academic Accepted,Constance Mcguire,58462547400017,,0.00,0.00,,,
+109,05 A,2016-03-02 11:14:59,Barcode media has been swiped.,Constance Mcguire,58462547400017,,0.00,0.00,,,
+109,05 A,2016-03-02 11:15:41,Override ADA,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 11:15:41,Transaction Processed,Constance Mcguire,,ADA,0.00,0.00,override,Manual,
+109,05 A,2016-03-02 11:22:46,Transaction Processed,Constance Mcguire,CH3010408V0G32718050,24 Hour Reduced,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 11:22:46,media product 24 Hour Reduced Accepted,Constance Mcguire,CH3010408V0G32718050,,0.00,0.00,,,
+109,05 A,2016-03-02 11:22:46,Barcode media has been swiped.,Constance Mcguire,CH3010408V0G32718050,,0.00,0.00,,,
+109,05 A,2016-03-02 11:22:51,media product 24 Hour Reduced Accepted,Constance Mcguire,CH3010C0DV0G32A0G058,,0.00,0.00,,,
+109,05 A,2016-03-02 11:22:51,Barcode media has been swiped.,Constance Mcguire,CH3010C0DV0G32A0G058,,0.00,0.00,,,
+109,05 A,2016-03-02 11:22:51,Transaction Processed,Constance Mcguire,CH3010C0DV0G32A0G058,24 Hour Reduced,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 11:25:37,Transaction Processed,Constance Mcguire,43390,UVA Health,0.00,0.00,normal,Barcode,3rd Party Media
+109,05 A,2016-03-02 11:25:37,media product UVA Health Accepted,Constance Mcguire,43390,,0.00,0.00,,,
+109,05 A,2016-03-02 11:25:37,Barcode media has been swiped.,Constance Mcguire,43390,,0.00,0.00,,,
+109,05 A,2016-03-02 11:25:43,media product 24 Hour Full Accepted,Constance Mcguire,CH301080C10G32A1O048,,0.00,0.00,,,
+109,05 A,2016-03-02 11:25:43,Barcode media has been swiped.,Constance Mcguire,CH301080C10G32A1O048,,0.00,0.00,,,
+109,05 A,2016-03-02 11:25:43,Transaction Processed,Constance Mcguire,CH301080C10G32A1O048,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 11:25:47,Transaction Processed,Constance Mcguire,CH301070B10G32A1I04C,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 11:25:47,media product 24 Hour Full Accepted,Constance Mcguire,CH301070B10G32A1I04C,,0.00,0.00,,,
+109,05 A,2016-03-02 11:25:47,Barcode media has been swiped.,Constance Mcguire,CH301070B10G32A1I04C,,0.00,0.00,,,
+109,05 A,2016-03-02 11:25:51,media product 24 Hour Full Accepted,Constance Mcguire,CH301070B10G32A1A04B,,0.00,0.00,,,
+109,05 A,2016-03-02 11:25:51,Barcode media has been swiped.,Constance Mcguire,CH301070B10G32A1A04B,,0.00,0.00,,,
+109,05 A,2016-03-02 11:25:51,Transaction Processed,Constance Mcguire,CH301070B10G32A1A04B,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 11:30:08,Transaction Processed,Constance Mcguire,5675,30 Day Reduced,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 11:30:08,media product  Accepted,Constance Mcguire,5675,,0.00,0.00,,,
+109,05 A,2016-03-02 11:32:00,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 11:32:01,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 11:32:02,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 11:32:03,Transaction Processed,Constance Mcguire,,One Ride Full,0.75,0.75,normal,Cash,Value
+109,05 A,2016-03-02 11:32:04,Transaction Processed,Constance Mcguire,3609,30 Day Full,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 11:32:04,media product  Accepted,Constance Mcguire,3609,,0.00,0.00,,,
+109,05 A,2016-03-02 11:37:41,media product  Accepted,Constance Mcguire,4689,,0.00,0.00,,,
+109,05 A,2016-03-02 11:37:41,Transaction Processed,Constance Mcguire,4689,30 Day Full,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 11:39:00,Change Route (05 A,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 11:48:12,media product 24 Hour Full Accepted,Constance Mcguire,CH301090610G32A1904G,,0.00,0.00,,,
+109,05 A,2016-03-02 11:48:12,Barcode media has been swiped.,Constance Mcguire,CH301090610G32A1904G,,0.00,0.00,,,
+109,05 A,2016-03-02 11:48:12,Transaction Processed,Constance Mcguire,CH301090610G32A1904G,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 11:48:49,Transaction Processed,Constance Mcguire,6320,30 Day Full,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 11:48:49,media product  Accepted,Constance Mcguire,6320,,0.00,0.00,,,
+109,05 A,2016-03-02 11:56:21,media product 24 Hour Full Accepted,Constance Mcguire,CH3010P0N10G31D1404I,,0.00,0.00,,,
+109,05 A,2016-03-02 11:56:21,Barcode media has been swiped.,Constance Mcguire,CH3010P0N10G31D1404I,,0.00,0.00,,,
+109,05 A,2016-03-02 11:56:21,Transaction Processed,Constance Mcguire,CH3010P0N10G31D1404I,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 11:56:26,Transaction Processed,Constance Mcguire,3383,30 Day Reduced,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 11:56:26,media product  Accepted,Constance Mcguire,3383,,0.00,0.00,,,
+109,05 A,2016-03-02 11:56:31,media product 24 Hour Full Accepted,Constance Mcguire,CH3010G0O10G32B1004B,,0.00,0.00,,,
+109,05 A,2016-03-02 11:56:31,Barcode media has been swiped.,Constance Mcguire,CH3010G0O10G32B1004B,,0.00,0.00,,,
+109,05 A,2016-03-02 11:56:31,Transaction Processed,Constance Mcguire,CH3010G0O10G32B1004B,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 11:56:34,Transaction Processed,Constance Mcguire,CH3010Q0NV0G32B0F04C,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 11:56:34,media product 24 Hour Full Accepted,Constance Mcguire,CH3010Q0NV0G32B0F04C,,0.00,0.00,,,
+109,05 A,2016-03-02 11:56:34,Barcode media has been swiped.,Constance Mcguire,CH3010Q0NV0G32B0F04C,,0.00,0.00,,,
+109,05 A,2016-03-02 11:57:18,Operator log off,Constance Mcguire,,,0.00,0.00,,,
+109,0,2016-03-02 11:57:22,Product or media invalid,Default Default - (Inactive),,,0.00,0.00,,,
+109,05 A,2016-03-02 11:59:59,Valid logon,Opal Castillo,,,0.00,0.00,,,
+109,05 A,2016-03-02 12:11:14,Change Route (05 A,Opal Castillo,,,0.00,0.00,,,
+109,05 A,2016-03-02 12:12:09,media product 24 Hour Full Accepted,Opal Castillo,CH3010207V0G3290C045,,0.00,0.00,,,
+109,05 A,2016-03-02 12:12:09,Barcode media has been swiped.,Opal Castillo,CH3010207V0G3290C045,,0.00,0.00,,,
+109,05 A,2016-03-02 12:12:10,Transaction Processed,Opal Castillo,CH3010207V0G3290C045,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 12:12:13,Transaction Processed,Opal Castillo,6238,30 Day Full,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 12:12:13,media product  Accepted,Opal Castillo,6238,,0.00,0.00,,,
+109,05 A,2016-03-02 12:19:59,media product  Accepted,Opal Castillo,3383,,0.00,0.00,,,
+109,05 A,2016-03-02 12:19:59,Transaction Processed,Opal Castillo,3383,30 Day Reduced,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 12:20:02,Transaction Processed,Opal Castillo,CH301040810G32B0804D,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 12:20:02,media product 24 Hour Full Accepted,Opal Castillo,CH301040810G32B0804D,,0.00,0.00,,,
+109,05 A,2016-03-02 12:20:02,Barcode media has been swiped.,Opal Castillo,CH301040810G32B0804D,,0.00,0.00,,,
+109,05 A,2016-03-02 12:20:04,media product  Accepted,Opal Castillo,4417,,0.00,0.00,,,
+109,05 A,2016-03-02 12:20:04,Transaction Processed,Opal Castillo,4417,30 Day Full,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 12:20:06,Transaction Processed,Opal Castillo,5677,30 Day Full,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 12:20:06,media product  Accepted,Opal Castillo,5677,,0.00,0.00,,,
+109,05 A,2016-03-02 12:28:38,Override ADA,Opal Castillo,,,0.00,0.00,,,
+109,05 A,2016-03-02 12:28:38,Transaction Processed,Opal Castillo,,ADA,0.00,0.00,override,Manual,
+109,05 A,2016-03-02 12:33:48,Transaction Processed,Opal Castillo,,ADA,0.00,0.00,override,Manual,
+109,05 A,2016-03-02 12:33:48,Override ADA,Opal Castillo,,,0.00,0.00,,,
+109,05 A,2016-03-02 12:33:54,media product 24 Hour Full Accepted,Opal Castillo,CH3010D0G10G31G0M04N,,0.00,0.00,,,
+109,05 A,2016-03-02 12:33:54,Barcode media has been swiped.,Opal Castillo,CH3010D0G10G31G0M04N,,0.00,0.00,,,
+109,05 A,2016-03-02 12:33:54,Transaction Processed,Opal Castillo,CH3010D0G10G31G0M04N,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 12:41:26,Transaction Processed,Opal Castillo,4397,30 Day Full,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 12:41:26,media product  Accepted,Opal Castillo,4397,,0.00,0.00,,,
+109,05 A,2016-03-02 12:43:03,media product  Accepted,Opal Castillo,1339,,0.00,0.00,,,
+109,05 A,2016-03-02 12:43:03,Transaction Processed,Opal Castillo,1339,30 Day Full,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 12:46:42,Transaction Processed,Opal Castillo,CH301020P10G31L19040,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 12:46:42,media product 24 Hour Full Accepted,Opal Castillo,CH301020P10G31L19040,,0.00,0.00,,,
+109,05 A,2016-03-02 12:46:42,Barcode media has been swiped.,Opal Castillo,CH301020P10G31L19040,,0.00,0.00,,,
+109,05 A,2016-03-02 12:50:17,Product or media invalid,Opal Castillo,,,0.00,0.00,,,
+109,05 A,2016-03-02 12:50:21,media product  Accepted,Opal Castillo,999,,0.00,0.00,,,
+109,05 A,2016-03-02 12:50:21,Transaction Processed,Opal Castillo,999,30 Day Reduced,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 12:52:23,Change Route (05 A,Opal Castillo,,,0.00,0.00,,,
+109,05 A,2016-03-02 12:53:51,Dime,Opal Castillo,,,0.00,0.00,,,
+109,05 A,2016-03-02 12:53:51,Quarter,Opal Castillo,,,0.00,0.00,,,
+109,05 A,2016-03-02 12:53:54,Transaction Processed,Opal Castillo,,One Ride Reduced,0.35,0.35,normal,Cash,Value
+109,05 A,2016-03-02 12:57:59,Transaction Processed,Opal Castillo,6335,30 Day Full,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 12:57:59,media product  Accepted,Opal Castillo,6335,,0.00,0.00,,,
+109,05 A,2016-03-02 13:00:05,Override ADA,Opal Castillo,,,0.00,0.00,,,
+109,05 A,2016-03-02 13:00:05,Transaction Processed,Opal Castillo,,ADA,0.00,0.00,override,Manual,
+109,05 A,2016-03-02 13:02:16,Transaction Processed,Opal Castillo,CH3010N0410G32C00044,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 13:02:16,media product 24 Hour Full Accepted,Opal Castillo,CH3010N0410G32C00044,,0.00,0.00,,,
+109,05 A,2016-03-02 13:02:16,Barcode media has been swiped.,Opal Castillo,CH3010N0410G32C00044,,0.00,0.00,,,
+109,05 A,2016-03-02 13:05:23,Dollar,Opal Castillo,,,0.00,0.00,,,
+109,05 A,2016-03-02 13:05:36,Transaction Processed,Opal Castillo,,One Ride Full,0.75,0.75,normal,Cash,Value
+109,05 A,2016-03-02 13:05:40,Transaction Processed,Opal Castillo,,Unknown,0.00,0.25,cancel by driver,Cash,Value
+109,05 A,2016-03-02 13:05:40,Cancelled Transaction ($0.25),Opal Castillo,,,0.00,0.00,,,
+109,05 A,2016-03-02 13:07:46,media product  Accepted,Opal Castillo,3868,,0.00,0.00,,,
+109,05 A,2016-03-02 13:07:46,Transaction Processed,Opal Castillo,3868,30 Day Full,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 13:09:20,Quarter,Opal Castillo,,,0.00,0.00,,,
+109,05 A,2016-03-02 13:09:22,Quarter,Opal Castillo,,,0.00,0.00,,,
+109,05 A,2016-03-02 13:09:37,Dollar,Opal Castillo,,,0.00,0.00,,,
+109,05 A,2016-03-02 13:09:38,Daypass Issued,Opal Castillo,CH301090610G32D0904I,,0.00,0.00,,,
+109,05 A,2016-03-02 13:09:38,Transaction Processed,Opal Castillo,CH301090610G32D0904I,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 13:11:14,Quarter,Opal Castillo,,,0.00,0.00,,,
+109,05 A,2016-03-02 13:11:17,Dime,Opal Castillo,,,0.00,0.00,,,
+109,05 A,2016-03-02 13:11:20,Dime,Opal Castillo,,,0.00,0.00,,,
+109,05 A,2016-03-02 13:11:24,Dime,Opal Castillo,,,0.00,0.00,,,
+109,05 A,2016-03-02 13:11:26,Dime,Opal Castillo,,,0.00,0.00,,,
+109,05 A,2016-03-02 13:11:29,Nickel,Opal Castillo,,,0.00,0.00,,,
+109,05 A,2016-03-02 13:11:32,Nickel,Opal Castillo,,,0.00,0.00,,,
+109,05 A,2016-03-02 13:11:37,Transaction Processed,Opal Castillo,,One Ride Full,0.75,0.75,normal,Cash,Value
+109,05 A,2016-03-02 13:14:20,Nickel,Opal Castillo,,,0.00,0.00,,,
+109,05 A,2016-03-02 13:14:21,Nickel,Opal Castillo,,,0.00,0.00,,,
+109,05 A,2016-03-02 13:14:21,Nickel,Opal Castillo,,,0.00,0.00,,,
+109,05 A,2016-03-02 13:14:22,Nickel,Opal Castillo,,,0.00,0.00,,,
+109,05 A,2016-03-02 13:14:22,Nickel,Opal Castillo,,,0.00,0.00,,,
+109,05 A,2016-03-02 13:14:24,Nickel,Opal Castillo,,,0.00,0.00,,,
+109,05 A,2016-03-02 13:14:26,Quarter,Opal Castillo,,,0.00,0.00,,,
+109,05 A,2016-03-02 13:14:26,Nickel,Opal Castillo,,,0.00,0.00,,,
+109,05 A,2016-03-02 13:14:27,Nickel,Opal Castillo,,,0.00,0.00,,,
+109,05 A,2016-03-02 13:14:27,Nickel,Opal Castillo,,,0.00,0.00,,,
+109,05 A,2016-03-02 13:14:28,Nickel,Opal Castillo,,,0.00,0.00,,,
+109,05 A,2016-03-02 13:14:31,Quarter,Opal Castillo,,,0.00,0.00,,,
+109,05 A,2016-03-02 13:14:32,Nickel,Opal Castillo,,,0.00,0.00,,,
+109,05 A,2016-03-02 13:14:32,Nickel,Opal Castillo,,,0.00,0.00,,,
+109,05 A,2016-03-02 13:14:34,Quarter,Opal Castillo,,,0.00,0.00,,,
+109,05 A,2016-03-02 13:14:34,Nickel,Opal Castillo,,,0.00,0.00,,,
+109,05 A,2016-03-02 13:14:36,Dime,Opal Castillo,,,0.00,0.00,,,
+109,05 A,2016-03-02 13:14:37,Daypass Issued,Opal Castillo,CH301090610G32D0E04J,,0.00,0.00,,,
+109,05 A,2016-03-02 13:14:37,Transaction Processed,Opal Castillo,CH301090610G32D0E04J,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 13:25:01,Transaction Processed,Opal Castillo,CH301060A10G3281A045,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 13:25:01,media product 24 Hour Full Accepted,Opal Castillo,CH301060A10G3281A045,,0.00,0.00,,,
+109,05 A,2016-03-02 13:25:01,Barcode media has been swiped.,Opal Castillo,CH301060A10G3281A045,,0.00,0.00,,,
+109,05 A,2016-03-02 13:25:14,Media override UVA Academic ( UVA Academic ).,Opal Castillo,,,0.00,0.00,,,
+109,05 A,2016-03-02 13:25:14,Media override UVA Academic ( UVA Academic ).,Opal Castillo,,,0.00,0.00,,,
+109,05 A,2016-03-02 13:25:14,Transaction Processed,Opal Castillo,,UVA Academic,0.00,0.00,override,Barcode,3rd Party Media
+109,05 A,2016-03-02 13:25:14,Transaction Processed,Opal Castillo,,UVA Academic,0.00,0.00,override,Barcode,3rd Party Media
+109,05 A,2016-03-02 13:36:50,Transaction Processed,Opal Castillo,6207,30 Day Reduced,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 13:36:50,media product  Accepted,Opal Castillo,6207,,0.00,0.00,,,
+109,05 A,2016-03-02 13:40:10,Change Route (05 A,Opal Castillo,,,0.00,0.00,,,
+109,05 A,2016-03-02 13:41:41,media product  Accepted,Opal Castillo,4515,,0.00,0.00,,,
+109,05 A,2016-03-02 13:41:41,Transaction Processed,Opal Castillo,4515,30 Day Full,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 13:44:07,Transaction Processed,Opal Castillo,CH301040810G32C1A04G,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 13:44:07,media product 24 Hour Full Accepted,Opal Castillo,CH301040810G32C1A04G,,0.00,0.00,,,
+109,05 A,2016-03-02 13:44:07,Barcode media has been swiped.,Opal Castillo,CH301040810G32C1A04G,,0.00,0.00,,,
+109,05 A,2016-03-02 13:48:52,Override ADA,Opal Castillo,,,0.00,0.00,,,
+109,05 A,2016-03-02 13:48:52,Transaction Processed,Opal Castillo,,ADA,0.00,0.00,override,Manual,
+109,05 A,2016-03-02 13:55:45,Operator log off,Opal Castillo,,,0.00,0.00,,,
+109,05 A,2016-03-02 13:58:12,Valid logon,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 14:05:52,media product  Accepted,Constance Mcguire,6327,,0.00,0.00,,,
+109,05 A,2016-03-02 14:05:52,Transaction Processed,Constance Mcguire,6327,30 Day Full,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 14:05:57,Dollar,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 14:05:57,Dime,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 14:05:58,Dime,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 14:06:01,Dime,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 14:06:05,Dime,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 14:06:07,Dime,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 14:06:07,Daypass Issued,Constance Mcguire,CH3010906V0G32E0604K,,0.00,0.00,,,
+109,05 A,2016-03-02 14:06:07,Transaction Processed,Constance Mcguire,CH3010906V0G32E0604K,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 14:06:14,Transaction Processed,Constance Mcguire,CH3010207V0G3290C045,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 14:06:14,media product 24 Hour Full Accepted,Constance Mcguire,CH3010207V0G3290C045,,0.00,0.00,,,
+109,05 A,2016-03-02 14:06:14,Barcode media has been swiped.,Constance Mcguire,CH3010207V0G3290C045,,0.00,0.00,,,
+109,05 A,2016-03-02 14:10:07,media product 24 Hour Full Accepted,Constance Mcguire,CH301020710G32B1M04B,,0.00,0.00,,,
+109,05 A,2016-03-02 14:10:07,Barcode media has been swiped.,Constance Mcguire,CH301020710G32B1M04B,,0.00,0.00,,,
+109,05 A,2016-03-02 14:10:07,Transaction Processed,Constance Mcguire,CH301020710G32B1M04B,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 14:11:32,Transaction Processed,Constance Mcguire,5519,30 Day Full,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 14:11:32,media product  Accepted,Constance Mcguire,5519,,0.00,0.00,,,
+109,05 A,2016-03-02 14:12:26,Dollar,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 14:12:39,Transaction Processed,Constance Mcguire,,One Ride Full,0.75,0.75,normal,Cash,Value
+109,05 A,2016-03-02 14:13:12,Dollar,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 14:13:13,Transaction Processed,Constance Mcguire,,One Ride Full,0.75,0.75,normal,Cash,Value
+109,05 A,2016-03-02 14:13:14,Transaction Processed,Constance Mcguire,,Unknown,0.00,0.50,cancel by driver,Cash,Value
+109,05 A,2016-03-02 14:13:14,Cancelled Transaction ($0.50),Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 14:13:15,Barcode media has been swiped.,Constance Mcguire,164879841,,0.00,0.00,,,
+109,05 A,2016-03-02 14:13:16,media product UVA Health Accepted,Constance Mcguire,164879841,,0.00,0.00,,,
+109,05 A,2016-03-02 14:13:16,Transaction Processed,Constance Mcguire,164879841,UVA Health,0.00,0.00,normal,Barcode,3rd Party Media
+109,05 A,2016-03-02 14:13:53,Transaction Processed,Constance Mcguire,CH3011606V0G31E1704N,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 14:13:53,media product 24 Hour Full Accepted,Constance Mcguire,CH3011606V0G31E1704N,,0.00,0.00,,,
+109,05 A,2016-03-02 14:13:53,Barcode media has been swiped.,Constance Mcguire,CH3011606V0G31E1704N,,0.00,0.00,,,
+109,05 A,2016-03-02 14:17:00,media product  Accepted,Constance Mcguire,1006,,0.00,0.00,,,
+109,05 A,2016-03-02 14:17:00,Transaction Processed,Constance Mcguire,1006,30 Day Full,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 14:25:12,Transaction Processed,Constance Mcguire,26726750001017,UVA Academic,0.00,0.00,normal,Barcode,3rd Party Media
+109,05 A,2016-03-02 14:25:12,media product UVA Academic Accepted,Constance Mcguire,26726750001017,,0.00,0.00,,,
+109,05 A,2016-03-02 14:25:12,Barcode media has been swiped.,Constance Mcguire,26726750001017,,0.00,0.00,,,
+109,05 A,2016-03-02 14:25:18,media product  Accepted,Constance Mcguire,988,,0.00,0.00,,,
+109,05 A,2016-03-02 14:25:18,Transaction Processed,Constance Mcguire,988,90 Day Full,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 14:25:21,Transaction Processed,Constance Mcguire,CH3010207V0G32A0C048,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 14:25:21,media product 24 Hour Full Accepted,Constance Mcguire,CH3010207V0G32A0C048,,0.00,0.00,,,
+109,05 A,2016-03-02 14:25:21,Barcode media has been swiped.,Constance Mcguire,CH3010207V0G32A0C048,,0.00,0.00,,,
+109,05 A,2016-03-02 14:25:50,media product 24 Hour Full Accepted,Constance Mcguire,CH3010H0910G32D1E04G,,0.00,0.00,,,
+109,05 A,2016-03-02 14:25:50,Barcode media has been swiped.,Constance Mcguire,CH3010H0910G32D1E04G,,0.00,0.00,,,
+109,05 A,2016-03-02 14:25:50,Transaction Processed,Constance Mcguire,CH3010H0910G32D1E04G,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 14:29:11,Transaction Processed,Constance Mcguire,CH3010408V0G3290C047,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 14:29:11,media product 24 Hour Full Accepted,Constance Mcguire,CH3010408V0G3290C047,,0.00,0.00,,,
+109,05 A,2016-03-02 14:29:11,Barcode media has been swiped.,Constance Mcguire,CH3010408V0G3290C047,,0.00,0.00,,,
+109,05 A,2016-03-02 14:29:14,media product  Accepted,Constance Mcguire,3825,,0.00,0.00,,,
+109,05 A,2016-03-02 14:29:14,Transaction Processed,Constance Mcguire,3825,30 Day Full,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 14:29:19,Transaction Processed,Constance Mcguire,CH3010F0KV0G31I0804Q,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 14:29:19,Dollar,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 14:29:19,media product 24 Hour Full Accepted,Constance Mcguire,CH3010F0KV0G31I0804Q,,0.00,0.00,,,
+109,05 A,2016-03-02 14:29:19,Barcode media has been swiped.,Constance Mcguire,CH3010F0KV0G31I0804Q,,0.00,0.00,,,
+109,05 A,2016-03-02 14:29:23,Transaction Processed,Constance Mcguire,,One Ride Full,0.75,0.75,normal,Cash,Value
+109,05 A,2016-03-02 14:29:24,Transaction Processed,Constance Mcguire,,Unknown,0.00,0.25,cancel by driver,Cash,Value
+109,05 A,2016-03-02 14:29:24,Cancelled Transaction ($0.25),Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 14:29:27,Barcode media has been swiped.,Constance Mcguire,CH3010B0EV0G32C15047,,0.00,0.00,,,
+109,05 A,2016-03-02 14:29:28,media product 24 Hour Full Accepted,Constance Mcguire,CH3010B0EV0G32C15047,,0.00,0.00,,,
+109,05 A,2016-03-02 14:29:28,Transaction Processed,Constance Mcguire,CH3010B0EV0G32C15047,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 14:29:35,Transaction Processed,Constance Mcguire,36788928703017,UVA Academic,0.00,0.00,normal,Barcode,3rd Party Media
+109,05 A,2016-03-02 14:29:35,media product UVA Academic Accepted,Constance Mcguire,36788928703017,,0.00,0.00,,,
+109,05 A,2016-03-02 14:29:35,Barcode media has been swiped.,Constance Mcguire,36788928703017,,0.00,0.00,,,
+109,05 A,2016-03-02 14:29:47,Change Route (05 A,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 14:33:28,media product 24 Hour Full Accepted,Constance Mcguire,CH3010B0EV0G31H1O041,,0.00,0.00,,,
+109,05 A,2016-03-02 14:33:28,Barcode media has been swiped.,Constance Mcguire,CH3010B0EV0G31H1O041,,0.00,0.00,,,
+109,05 A,2016-03-02 14:33:28,Transaction Processed,Constance Mcguire,CH3010B0EV0G31H1O041,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 14:34:45,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 14:34:46,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 14:34:57,Dollar,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 14:34:58,Daypass Issued,Constance Mcguire,CH301090610G32E1204L,,0.00,0.00,,,
+109,05 A,2016-03-02 14:34:58,Transaction Processed,Constance Mcguire,CH301090610G32E1204L,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 14:36:32,Transaction Processed,Constance Mcguire,5568,30 Day Full,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 14:36:32,media product  Accepted,Constance Mcguire,5568,,0.00,0.00,,,
+109,05 A,2016-03-02 14:38:46,media product  Accepted,Constance Mcguire,6346,,0.00,0.00,,,
+109,05 A,2016-03-02 14:38:46,Transaction Processed,Constance Mcguire,6346,30 Day Full,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 14:40:19,Transaction Processed,Constance Mcguire,4172,30 Day Full,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 14:40:19,media product  Accepted,Constance Mcguire,4172,,0.00,0.00,,,
+109,05 A,2016-03-02 14:54:48,Override ADA,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 14:54:48,Transaction Processed,Constance Mcguire,,ADA,0.00,0.00,override,Manual,
+109,05 A,2016-03-02 14:55:11,Transaction Processed,Constance Mcguire,29631,UVA Health,0.00,0.00,normal,Barcode,3rd Party Media
+109,05 A,2016-03-02 14:55:11,media product UVA Health Accepted,Constance Mcguire,29631,,0.00,0.00,,,
+109,05 A,2016-03-02 14:55:11,Barcode media has been swiped.,Constance Mcguire,29631,,0.00,0.00,,,
+109,05 A,2016-03-02 14:55:21,media product  Accepted,Constance Mcguire,1314,,0.00,0.00,,,
+109,05 A,2016-03-02 14:55:21,Transaction Processed,Constance Mcguire,1314,30 Day Reduced,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 15:03:19,Transaction Processed,Constance Mcguire,5181,30 Day Full,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 15:03:19,media product  Accepted,Constance Mcguire,5181,,0.00,0.00,,,
+109,05 A,2016-03-02 15:08:33,Dime,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 15:08:34,Nickel,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 15:08:35,Dime,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 15:08:36,Dime,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 15:08:36,Dime,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 15:08:37,Dime,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 15:08:38,Dime,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 15:08:39,Dime,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 15:08:46,Transaction Processed,Constance Mcguire,,One Ride Full,0.75,0.75,normal,Cash,Value
+109,05 A,2016-03-02 15:12:18,Change Route (05 A,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 15:13:02,media product  Accepted,Constance Mcguire,1177,,0.00,0.00,,,
+109,05 A,2016-03-02 15:13:02,Transaction Processed,Constance Mcguire,1177,30 Day Reduced,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 15:13:06,Transaction Processed,Constance Mcguire,,ADA,0.00,0.00,override,Manual,
+109,05 A,2016-03-02 15:13:06,Override ADA,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 15:13:12,media product 24 Hour Full Accepted,Constance Mcguire,CH301040810G32E0T04O,,0.00,0.00,,,
+109,05 A,2016-03-02 15:13:12,Barcode media has been swiped.,Constance Mcguire,CH301040810G32E0T04O,,0.00,0.00,,,
+109,05 A,2016-03-02 15:13:12,Transaction Processed,Constance Mcguire,CH301040810G32E0T04O,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 15:13:19,Transaction Processed,Constance Mcguire,6321,30 Day Full,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 15:13:19,media product  Accepted,Constance Mcguire,6321,,0.00,0.00,,,
+109,05 A,2016-03-02 15:18:41,Dollar,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 15:18:41,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 15:18:42,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 15:18:45,Daypass Issued,Constance Mcguire,CH3010906V0G32F0I04M,,0.00,0.00,,,
+109,05 A,2016-03-02 15:18:45,Transaction Processed,Constance Mcguire,CH3010906V0G32F0I04M,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 15:18:52,Transaction Processed,Constance Mcguire,5181,30 Day Full,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 15:18:52,media product  Accepted,Constance Mcguire,5181,,0.00,0.00,,,
+109,05 A,2016-03-02 15:23:45,media product  Accepted,Constance Mcguire,1068,,0.00,0.00,,,
+109,05 A,2016-03-02 15:23:45,Transaction Processed,Constance Mcguire,1068,30 Day Full,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 15:28:27,Transaction Processed,Constance Mcguire,2762,30 Day Reduced,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 15:28:27,media product  Accepted,Constance Mcguire,2762,,0.00,0.00,,,
+109,05 A,2016-03-02 15:30:16,Dollar,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 15:30:19,Dollar,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 15:30:20,Daypass Issued,Constance Mcguire,CH3010906V0G32F0U04N,,0.00,0.00,,,
+109,05 A,2016-03-02 15:30:20,Transaction Processed,Constance Mcguire,CH3010906V0G32F0U04N,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 15:31:43,Transaction Processed,Constance Mcguire,,Unknown,0.00,0.50,cancel by driver,Cash,Value
+109,05 A,2016-03-02 15:31:43,Cancelled Transaction ($0.50),Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 15:44:08,Dollar,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 15:44:09,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 15:44:11,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 15:44:12,Daypass Issued,Constance Mcguire,CH3010906V0G32F1C04O,,0.00,0.00,,,
+109,05 A,2016-03-02 15:44:12,Transaction Processed,Constance Mcguire,CH3010906V0G32F1C04O,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 15:47:06,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 15:47:07,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 15:47:08,Quarter,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 15:47:14,Transaction Processed,Constance Mcguire,,One Ride Full,0.75,0.75,normal,Cash,Value
+109,05 A,2016-03-02 15:54:12,Transaction Processed,Constance Mcguire,869,30 Day Full,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 15:54:12,media product  Accepted,Constance Mcguire,869,,0.00,0.00,,,
+109,05 A,2016-03-02 15:54:19,media product UVA Health Accepted,Constance Mcguire,618152348,,0.00,0.00,,,
+109,05 A,2016-03-02 15:54:19,Barcode media has been swiped.,Constance Mcguire,618152348,,0.00,0.00,,,
+109,05 A,2016-03-02 15:54:19,Transaction Processed,Constance Mcguire,618152348,UVA Health,0.00,0.00,normal,Barcode,3rd Party Media
+109,05 A,2016-03-02 15:54:22,Transaction Processed,Constance Mcguire,328293905,UVA Health,0.00,0.00,normal,Barcode,3rd Party Media
+109,05 A,2016-03-02 15:54:22,media product UVA Health Accepted,Constance Mcguire,328293905,,0.00,0.00,,,
+109,05 A,2016-03-02 15:54:22,Barcode media has been swiped.,Constance Mcguire,328293905,,0.00,0.00,,,
+109,05 A,2016-03-02 15:54:24,media product  Accepted,Constance Mcguire,884,,0.00,0.00,,,
+109,05 A,2016-03-02 15:54:24,Transaction Processed,Constance Mcguire,884,30 Day Reduced,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 15:54:25,Transaction Processed,Constance Mcguire,4982,30 Day Full,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 15:54:25,media product  Accepted,Constance Mcguire,4982,,0.00,0.00,,,
+109,05 A,2016-03-02 15:54:28,media product UVA Health Accepted,Constance Mcguire,38210,,0.00,0.00,,,
+109,05 A,2016-03-02 15:54:28,Barcode media has been swiped.,Constance Mcguire,38210,,0.00,0.00,,,
+109,05 A,2016-03-02 15:54:28,Transaction Processed,Constance Mcguire,38210,UVA Health,0.00,0.00,normal,Barcode,3rd Party Media
+109,05 A,2016-03-02 15:54:32,Transaction Processed,Constance Mcguire,26637,UVA Health,0.00,0.00,normal,Barcode,3rd Party Media
+109,05 A,2016-03-02 15:54:32,media product UVA Health Accepted,Constance Mcguire,26637,,0.00,0.00,,,
+109,05 A,2016-03-02 15:54:32,Barcode media has been swiped.,Constance Mcguire,26637,,0.00,0.00,,,
+109,05 A,2016-03-02 15:57:16,media product UVA Health Accepted,Constance Mcguire,716555607,,0.00,0.00,,,
+109,05 A,2016-03-02 15:57:16,Barcode media has been swiped.,Constance Mcguire,716555607,,0.00,0.00,,,
+109,05 A,2016-03-02 15:57:16,Transaction Processed,Constance Mcguire,716555607,UVA Health,0.00,0.00,normal,Barcode,3rd Party Media
+109,05 A,2016-03-02 15:57:19,Transaction Processed,Constance Mcguire,CH3010E0GV0G32F0J04I,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 15:57:19,media product 24 Hour Full Accepted,Constance Mcguire,CH3010E0GV0G32F0J04I,,0.00,0.00,,,
+109,05 A,2016-03-02 15:57:19,Barcode media has been swiped.,Constance Mcguire,CH3010E0GV0G32F0J04I,,0.00,0.00,,,
+109,05 A,2016-03-02 15:57:22,media product UVA Academic Accepted,Constance Mcguire,56540157801017,,0.00,0.00,,,
+109,05 A,2016-03-02 15:57:22,Barcode media has been swiped.,Constance Mcguire,56540157801017,,0.00,0.00,,,
+109,05 A,2016-03-02 15:57:22,Transaction Processed,Constance Mcguire,56540157801017,UVA Academic,0.00,0.00,normal,Barcode,3rd Party Media
+109,05 A,2016-03-02 15:57:25,Transaction Processed,Constance Mcguire,64393569800017,UVA Academic,0.00,0.00,normal,Barcode,3rd Party Media
+109,05 A,2016-03-02 15:57:25,media product UVA Academic Accepted,Constance Mcguire,64393569800017,,0.00,0.00,,,
+109,05 A,2016-03-02 15:57:25,Barcode media has been swiped.,Constance Mcguire,64393569800017,,0.00,0.00,,,
+109,05 A,2016-03-02 15:57:57,Operator log off,Constance Mcguire,,,0.00,0.00,,,
+109,05 A,2016-03-02 15:59:26,Valid logon,Emory Reid,,,0.00,0.00,,,
+109,05 A,2016-03-02 15:59:27,media product 24 Hour Full Accepted,Emory Reid,CH3010E0G10G32F0Q04J,,0.00,0.00,,,
+109,05 A,2016-03-02 15:59:27,Barcode media has been swiped.,Emory Reid,CH3010E0G10G32F0Q04J,,0.00,0.00,,,
+109,05 A,2016-03-02 15:59:27,Transaction Processed,Emory Reid,CH3010E0G10G32F0Q04J,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 15:59:30,Transaction Processed,Emory Reid,6251,30 Day Full,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 15:59:30,media product  Accepted,Emory Reid,6251,,0.00,0.00,,,
+109,05 A,2016-03-02 16:02:23,media product 24 Hour Full Accepted,Emory Reid,CH301090610G32D0E04J,,0.00,0.00,,,
+109,05 A,2016-03-02 16:02:23,Barcode media has been swiped.,Emory Reid,CH301090610G32D0E04J,,0.00,0.00,,,
+109,05 A,2016-03-02 16:02:23,Transaction Processed,Emory Reid,CH301090610G32D0E04J,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 16:09:34,Transaction Processed,Emory Reid,,Youth,0.00,0.00,override,Manual,
+109,05 A,2016-03-02 16:09:34,Transaction Processed,Emory Reid,,Youth,0.00,0.00,override,Manual,
+109,05 A,2016-03-02 16:09:34,Override Youth,Emory Reid,,,0.00,0.00,,,
+109,05 A,2016-03-02 16:09:34,Override Youth,Emory Reid,,,0.00,0.00,,,
+109,05 A,2016-03-02 16:09:35,Override Youth,Emory Reid,,,0.00,0.00,,,
+109,05 A,2016-03-02 16:09:35,Transaction Processed,Emory Reid,,Youth,0.00,0.00,override,Manual,
+109,05 A,2016-03-02 16:09:46,Dollar,Emory Reid,,,0.00,0.00,,,
+109,05 A,2016-03-02 16:09:48,Dollar,Emory Reid,,,0.00,0.00,,,
+109,05 A,2016-03-02 16:09:50,Dollar,Emory Reid,,,0.00,0.00,,,
+109,05 A,2016-03-02 16:09:51,Daypass Issued,Emory Reid,CH3010906V0G32G0904P,,0.00,0.00,,,
+109,05 A,2016-03-02 16:09:51,Transaction Processed,Emory Reid,CH3010906V0G32G0904P,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 16:09:55,Transaction Processed,Emory Reid,CH3010906V0G32G0904Q,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 16:09:55,Daypass Issued,Emory Reid,CH3010906V0G32G0904Q,,0.00,0.00,,,
+109,05 A,2016-03-02 16:10:00,media product Youth Smart Accepted,Emory Reid,3871,,0.00,0.00,,,
+109,05 A,2016-03-02 16:10:00,Transaction Processed,Emory Reid,3871,Youth Smart,0.00,0.00,normal,Smart Media,Date Based
+109,05 A,2016-03-02 16:13:04,Transaction Processed,Emory Reid,5021,1 Day Full,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 16:13:04,media product  Accepted,Emory Reid,5021,,0.00,0.00,,,
+109,05 A,2016-03-02 16:29:42,media product 24 Hour Full Accepted,Emory Reid,CH301060A10G32G0D04T,,0.00,0.00,,,
+109,05 A,2016-03-02 16:29:42,Barcode media has been swiped.,Emory Reid,CH301060A10G32G0D04T,,0.00,0.00,,,
+109,05 A,2016-03-02 16:29:42,Transaction Processed,Emory Reid,CH301060A10G32G0D04T,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 16:35:16,Transaction Processed,Emory Reid,CH3010207V0G3290D046,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 16:35:16,media product 24 Hour Full Accepted,Emory Reid,CH3010207V0G3290D046,,0.00,0.00,,,
+109,05 A,2016-03-02 16:35:16,Barcode media has been swiped.,Emory Reid,CH3010207V0G3290D046,,0.00,0.00,,,
+109,05 A,2016-03-02 16:43:23,Change Route (05 A,Emory Reid,,,0.00,0.00,,,
+109,05 A,2016-03-02 16:43:27,Change Route (05 A,Emory Reid,,,0.00,0.00,,,
+109,05 A,2016-03-02 16:44:57,media product 24 Hour Full Accepted,Emory Reid,CH3010207V0G3281E043,,0.00,0.00,,,
+109,05 A,2016-03-02 16:44:57,Barcode media has been swiped.,Emory Reid,CH3010207V0G3281E043,,0.00,0.00,,,
+109,05 A,2016-03-02 16:44:57,Transaction Processed,Emory Reid,CH3010207V0G3281E043,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 16:45:01,Transaction Processed,Emory Reid,CH3010207V0G3281E044,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 16:45:01,media product 24 Hour Full Accepted,Emory Reid,CH3010207V0G3281E044,,0.00,0.00,,,
+109,05 A,2016-03-02 16:45:01,Barcode media has been swiped.,Emory Reid,CH3010207V0G3281E044,,0.00,0.00,,,
+109,05 A,2016-03-02 16:45:09,Dollar,Emory Reid,,,0.00,0.00,,,
+109,05 A,2016-03-02 16:45:11,media product UVA Academic Accepted,Emory Reid,61239728900017,,0.00,0.00,,,
+109,05 A,2016-03-02 16:45:11,Barcode media has been swiped.,Emory Reid,61239728900017,,0.00,0.00,,,
+109,05 A,2016-03-02 16:45:11,Transaction Processed,Emory Reid,61239728900017,UVA Academic,0.00,0.00,normal,Barcode,3rd Party Media
+109,05 A,2016-03-02 16:45:14,Transaction Processed,Emory Reid,,One Ride Full,0.75,0.75,normal,Cash,Value
+109,05 A,2016-03-02 16:45:16,Transaction Processed,Emory Reid,,Unknown,0.00,0.25,cancel by driver,Cash,Value
+109,05 A,2016-03-02 16:45:16,Cancelled Transaction ($0.25),Emory Reid,,,0.00,0.00,,,
+109,05 A,2016-03-02 16:45:23,media product  Accepted,Emory Reid,1033,,0.00,0.00,,,
+109,05 A,2016-03-02 16:45:23,Transaction Processed,Emory Reid,1033,30 Day Full,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 16:50:53,Transaction Processed,Emory Reid,CH3010E0G10G32902054,24 Hour Reduced,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 16:50:53,media product 24 Hour Reduced Accepted,Emory Reid,CH3010E0G10G32902054,,0.00,0.00,,,
+109,05 A,2016-03-02 16:50:53,Barcode media has been swiped.,Emory Reid,CH3010E0G10G32902054,,0.00,0.00,,,
+109,05 A,2016-03-02 16:52:24,Quarter,Emory Reid,,,0.00,0.00,,,
+109,05 A,2016-03-02 16:52:26,Quarter,Emory Reid,,,0.00,0.00,,,
+109,05 A,2016-03-02 16:52:27,Quarter,Emory Reid,,,0.00,0.00,,,
+109,05 A,2016-03-02 16:52:29,Quarter,Emory Reid,,,0.00,0.00,,,
+109,05 A,2016-03-02 16:52:30,Quarter,Emory Reid,,,0.00,0.00,,,
+109,05 A,2016-03-02 16:52:32,Quarter,Emory Reid,,,0.00,0.00,,,
+109,05 A,2016-03-02 16:52:33,Daypass Issued,Emory Reid,CH3010906V0G32G1K04R,,0.00,0.00,,,
+109,05 A,2016-03-02 16:52:33,Transaction Processed,Emory Reid,CH3010906V0G32G1K04R,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 17:10:12,Transaction Processed,Emory Reid,,Youth,0.00,0.00,override,Manual,
+109,05 A,2016-03-02 17:10:12,Override Youth,Emory Reid,,,0.00,0.00,,,
+109,05 A,2016-03-02 17:10:15,Override Youth,Emory Reid,,,0.00,0.00,,,
+109,05 A,2016-03-02 17:10:15,Transaction Processed,Emory Reid,,Youth,0.00,0.00,override,Manual,
+109,05 A,2016-03-02 17:10:23,Transaction Processed,Emory Reid,CH3010408V0G32E0104M,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 17:10:23,media product 24 Hour Full Accepted,Emory Reid,CH3010408V0G32E0104M,,0.00,0.00,,,
+109,05 A,2016-03-02 17:10:23,Barcode media has been swiped.,Emory Reid,CH3010408V0G32E0104M,,0.00,0.00,,,
+109,05 A,2016-03-02 17:10:26,Product or media invalid,Emory Reid,,,0.00,0.00,,,
+109,05 A,2016-03-02 17:10:26,media product UVA Academic Accepted,Emory Reid,11667081900017,,0.00,0.00,,,
+109,05 A,2016-03-02 17:10:26,Barcode media has been swiped.,Emory Reid,11667081900017,,0.00,0.00,,,
+109,05 A,2016-03-02 17:10:26,Barcode media has been swiped.,Emory Reid,11667081.00017[]A011667081900017,,0.00,0.00,,,
+109,05 A,2016-03-02 17:10:26,Transaction Processed,Emory Reid,11667081900017,UVA Academic,0.00,0.00,normal,Barcode,3rd Party Media
+109,05 A,2016-03-02 17:14:05,Transaction Processed,Emory Reid,CH301090610G32E1204L,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 17:14:05,media product 24 Hour Full Accepted,Emory Reid,CH301090610G32E1204L,,0.00,0.00,,,
+109,05 A,2016-03-02 17:14:05,Barcode media has been swiped.,Emory Reid,CH301090610G32E1204L,,0.00,0.00,,,
+109,05 A,2016-03-02 17:16:51,media product UVA Academic Accepted,Emory Reid,00050114400017,,0.00,0.00,,,
+109,05 A,2016-03-02 17:16:51,Barcode media has been swiped.,Emory Reid,00050114400017,,0.00,0.00,,,
+109,05 A,2016-03-02 17:16:51,Transaction Processed,Emory Reid,00050114400017,UVA Academic,0.00,0.00,normal,Barcode,3rd Party Media
+109,05 A,2016-03-02 17:18:20,Transaction Processed,Emory Reid,6382,30 Day Full,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 17:18:20,media product  Accepted,Emory Reid,6382,,0.00,0.00,,,
+109,05 A,2016-03-02 17:18:24,media product  Accepted,Emory Reid,4458,,0.00,0.00,,,
+109,05 A,2016-03-02 17:18:24,Transaction Processed,Emory Reid,4458,30 Day Full,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 17:18:58,Transaction Processed,Emory Reid,5150,30 Day Full,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 17:18:58,media product  Accepted,Emory Reid,5150,,0.00,0.00,,,
+109,05 A,2016-03-02 17:29:05,media product  Accepted,Emory Reid,3481,,0.00,0.00,,,
+109,05 A,2016-03-02 17:29:06,Transaction Processed,Emory Reid,3481,30 Day Full,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 17:32:10,Transaction Processed,Emory Reid,72111660800017,UVA Academic,0.00,0.00,normal,Barcode,3rd Party Media
+109,05 A,2016-03-02 17:32:10,media product UVA Academic Accepted,Emory Reid,72111660800017,,0.00,0.00,,,
+109,05 A,2016-03-02 17:32:10,Barcode media has been swiped.,Emory Reid,72111660800017,,0.00,0.00,,,
+109,05 A,2016-03-02 17:32:12,media product UVA Academic Accepted,Emory Reid,53887317700017,,0.00,0.00,,,
+109,05 A,2016-03-02 17:32:12,Barcode media has been swiped.,Emory Reid,53887317700017,,0.00,0.00,,,
+109,05 A,2016-03-02 17:32:12,Transaction Processed,Emory Reid,53887317700017,UVA Academic,0.00,0.00,normal,Barcode,3rd Party Media
+109,05 A,2016-03-02 17:32:16,Transaction Processed,Emory Reid,,ADA,0.00,0.00,override,Manual,
+109,05 A,2016-03-02 17:32:16,Override ADA,Emory Reid,,,0.00,0.00,,,
+109,05 A,2016-03-02 17:32:17,media product  Accepted,Emory Reid,2420,,0.00,0.00,,,
+109,05 A,2016-03-02 17:32:17,Transaction Processed,Emory Reid,2420,30 Day Full,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 17:32:19,media product 24 Hour Full Accepted,Emory Reid,CH3010D0F10G32H0F04L,,0.00,0.00,,,
+109,05 A,2016-03-02 17:32:19,Barcode media has been swiped.,Emory Reid,CH3010D0F10G32H0F04L,,0.00,0.00,,,
+109,05 A,2016-03-02 17:32:20,Transaction Processed,Emory Reid,CH3010D0F10G32H0F04L,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 17:32:22,Transaction Processed,Emory Reid,4795,30 Day Full,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 17:32:22,media product  Accepted,Emory Reid,4795,,0.00,0.00,,,
+109,05 A,2016-03-02 17:32:24,media product UVA Health Accepted,Emory Reid,216025,,0.00,0.00,,,
+109,05 A,2016-03-02 17:32:24,Barcode media has been swiped.,Emory Reid,216025,,0.00,0.00,,,
+109,05 A,2016-03-02 17:32:24,Transaction Processed,Emory Reid,216025,UVA Health,0.00,0.00,normal,Barcode,3rd Party Media
+109,05 A,2016-03-02 17:32:34,Change Route (05 A,Emory Reid,,,0.00,0.00,,,
+109,05 A,2016-03-02 17:43:10,media product 24 Hour Full Accepted,Emory Reid,CH3010D0FV0G3290T047,,0.00,0.00,,,
+109,05 A,2016-03-02 17:43:10,Barcode media has been swiped.,Emory Reid,CH3010D0FV0G3290T047,,0.00,0.00,,,
+109,05 A,2016-03-02 17:43:10,Transaction Processed,Emory Reid,CH3010D0FV0G3290T047,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 17:57:45,Operator log off,Emory Reid,,,0.00,0.00,,,
+109,05 A,2016-03-02 17:59:18,Valid logon,Leticia Nicholson,,,0.00,0.00,,,
+109,05 A,2016-03-02 17:59:19,media product  Accepted,Leticia Nicholson,983,,0.00,0.00,,,
+109,05 A,2016-03-02 17:59:19,Transaction Processed,Leticia Nicholson,983,30 Day Full,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 17:59:21,Transaction Processed,Leticia Nicholson,,ADA,0.00,0.00,override,Manual,
+109,05 A,2016-03-02 17:59:21,Override ADA,Leticia Nicholson,,,0.00,0.00,,,
+109,05 A,2016-03-02 17:59:26,media product 24 Hour Full Accepted,Leticia Nicholson,CH3010E0G10G32H1304N,,0.00,0.00,,,
+109,05 A,2016-03-02 17:59:26,Barcode media has been swiped.,Leticia Nicholson,CH3010E0G10G32H1304N,,0.00,0.00,,,
+109,05 A,2016-03-02 17:59:26,Transaction Processed,Leticia Nicholson,CH3010E0G10G32H1304N,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 18:12:51,Change Route (05 A,Leticia Nicholson,,,0.00,0.00,,,
+109,05 A,2016-03-02 18:13:59,Quarter,Leticia Nicholson,,,0.00,0.00,,,
+109,05 A,2016-03-02 18:14:02,Quarter,Leticia Nicholson,,,0.00,0.00,,,
+109,05 A,2016-03-02 18:14:03,Quarter,Leticia Nicholson,,,0.00,0.00,,,
+109,05 A,2016-03-02 18:14:05,media product UVA Academic Accepted,Leticia Nicholson,64533935000017,,0.00,0.00,,,
+109,05 A,2016-03-02 18:14:05,Barcode media has been swiped.,Leticia Nicholson,64533935000017,,0.00,0.00,,,
+109,05 A,2016-03-02 18:14:05,Transaction Processed,Leticia Nicholson,64533935000017,UVA Academic,0.00,0.00,normal,Barcode,3rd Party Media
+109,05 A,2016-03-02 18:14:09,Transaction Processed,Leticia Nicholson,5031,30 Day Full,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 18:14:09,media product  Accepted,Leticia Nicholson,5031,,0.00,0.00,,,
+109,05 A,2016-03-02 18:14:10,Transaction Processed,Leticia Nicholson,,One Ride Full,0.75,0.75,normal,Cash,Value
+109,05 A,2016-03-02 18:20:13,Transaction Processed,Leticia Nicholson,,ADA,0.00,0.00,override,Manual,
+109,05 A,2016-03-02 18:20:13,Override ADA,Leticia Nicholson,,,0.00,0.00,,,
+109,05 A,2016-03-02 18:24:58,media product 24 Hour Reduced Accepted,Leticia Nicholson,CH3010B0EV0G32A1M054,,0.00,0.00,,,
+109,05 A,2016-03-02 18:24:58,Barcode media has been swiped.,Leticia Nicholson,CH3010B0EV0G32A1M054,,0.00,0.00,,,
+109,05 A,2016-03-02 18:24:58,Transaction Processed,Leticia Nicholson,CH3010B0EV0G32A1M054,24 Hour Reduced,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 18:25:05,Transaction Processed,Leticia Nicholson,CH3010B0EV0G32A1M045,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 18:25:05,media product 24 Hour Full Accepted,Leticia Nicholson,CH3010B0EV0G32A1M045,,0.00,0.00,,,
+109,05 A,2016-03-02 18:25:05,Barcode media has been swiped.,Leticia Nicholson,CH3010B0EV0G32A1M045,,0.00,0.00,,,
+109,05 A,2016-03-02 18:25:32,media product 24 Hour Full Accepted,Leticia Nicholson,CH3010G0O10G32H0P04M,,0.00,0.00,,,
+109,05 A,2016-03-02 18:25:32,Barcode media has been swiped.,Leticia Nicholson,CH3010G0O10G32H0P04M,,0.00,0.00,,,
+109,05 A,2016-03-02 18:25:32,Transaction Processed,Leticia Nicholson,CH3010G0O10G32H0P04M,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 18:35:17,Quarter,Leticia Nicholson,,,0.00,0.00,,,
+109,05 A,2016-03-02 18:35:18,Quarter,Leticia Nicholson,,,0.00,0.00,,,
+109,05 A,2016-03-02 18:35:38,Dollar,Leticia Nicholson,,,0.00,0.00,,,
+109,05 A,2016-03-02 18:35:38,Daypass Issued,Leticia Nicholson,CH3010906V0G32I1304S,,0.00,0.00,,,
+109,05 A,2016-03-02 18:35:38,Transaction Processed,Leticia Nicholson,CH3010906V0G32I1304S,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 18:56:11,Transaction Processed,Leticia Nicholson,92847453900017,UVA Academic,0.00,0.00,normal,Barcode,3rd Party Media
+109,05 A,2016-03-02 18:56:11,media product UVA Academic Accepted,Leticia Nicholson,92847453900017,,0.00,0.00,,,
+109,05 A,2016-03-02 18:56:11,Barcode media has been swiped.,Leticia Nicholson,92847453900017,,0.00,0.00,,,
+109,05 A,2016-03-02 18:56:15,media product UVA Health Accepted,Leticia Nicholson,38500,,0.00,0.00,,,
+109,05 A,2016-03-02 18:56:15,Barcode media has been swiped.,Leticia Nicholson,38500,,0.00,0.00,,,
+109,05 A,2016-03-02 18:56:15,Transaction Processed,Leticia Nicholson,38500,UVA Health,0.00,0.00,normal,Barcode,3rd Party Media
+109,05 A,2016-03-02 18:56:18,Transaction Processed,Leticia Nicholson,CH301060AV0G32B1904E,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 18:56:18,media product 24 Hour Full Accepted,Leticia Nicholson,CH301060AV0G32B1904E,,0.00,0.00,,,
+109,05 A,2016-03-02 18:56:18,Barcode media has been swiped.,Leticia Nicholson,CH301060AV0G32B1904E,,0.00,0.00,,,
+109,05 A,2016-03-02 18:56:25,media product  Accepted,Leticia Nicholson,5145,,0.00,0.00,,,
+109,05 A,2016-03-02 18:56:25,Transaction Processed,Leticia Nicholson,5145,30 Day Full,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 18:59:11,media product UVA Health Accepted,Leticia Nicholson,868735084,,0.00,0.00,,,
+109,05 A,2016-03-02 18:59:11,Barcode media has been swiped.,Leticia Nicholson,868735084,,0.00,0.00,,,
+109,05 A,2016-03-02 18:59:12,Transaction Processed,Leticia Nicholson,868735084,UVA Health,0.00,0.00,normal,Barcode,3rd Party Media
+109,05 A,2016-03-02 18:59:19,Transaction Processed,Leticia Nicholson,42437,UVA Health,0.00,0.00,normal,Barcode,3rd Party Media
+109,05 A,2016-03-02 18:59:19,media product UVA Health Accepted,Leticia Nicholson,42437,,0.00,0.00,,,
+109,05 A,2016-03-02 18:59:19,Barcode media has been swiped.,Leticia Nicholson,42437,,0.00,0.00,,,
+109,05 A,2016-03-02 18:59:25,Dollar,Leticia Nicholson,,,0.00,0.00,,,
+109,05 A,2016-03-02 18:59:25,Quarter,Leticia Nicholson,,,0.00,0.00,,,
+109,05 A,2016-03-02 18:59:27,Quarter,Leticia Nicholson,,,0.00,0.00,,,
+109,05 A,2016-03-02 18:59:27,Transaction Processed,Leticia Nicholson,,One Ride Full,0.75,0.75,normal,Cash,Value
+109,05 A,2016-03-02 18:59:27,Transaction Processed,Leticia Nicholson,,One Ride Full,0.75,0.75,normal,Cash,Value
+109,05 A,2016-03-02 19:00:38,Transaction Processed,Leticia Nicholson,95223056600017,UVA Academic,0.00,0.00,normal,Barcode,3rd Party Media
+109,05 A,2016-03-02 19:00:38,media product UVA Academic Accepted,Leticia Nicholson,95223056600017,,0.00,0.00,,,
+109,05 A,2016-03-02 19:00:38,Barcode media has been swiped.,Leticia Nicholson,95223056600017,,0.00,0.00,,,
+109,05 A,2016-03-02 19:00:41,media product UVA Health Accepted,Leticia Nicholson,484602095,,0.00,0.00,,,
+109,05 A,2016-03-02 19:00:41,Barcode media has been swiped.,Leticia Nicholson,484602095,,0.00,0.00,,,
+109,05 A,2016-03-02 19:00:41,Transaction Processed,Leticia Nicholson,484602095,UVA Health,0.00,0.00,normal,Barcode,3rd Party Media
+109,05 A,2016-03-02 19:11:10,Transaction Processed,Leticia Nicholson,CH3010B0EV0G32A1M054,24 Hour Reduced,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 19:11:10,media product 24 Hour Reduced Accepted,Leticia Nicholson,CH3010B0EV0G32A1M054,,0.00,0.00,,,
+109,05 A,2016-03-02 19:11:10,Barcode media has been swiped.,Leticia Nicholson,CH3010B0EV0G32A1M054,,0.00,0.00,,,
+109,05 A,2016-03-02 19:17:58,Override ADA,Leticia Nicholson,,,0.00,0.00,,,
+109,05 A,2016-03-02 19:17:58,Transaction Processed,Leticia Nicholson,,ADA,0.00,0.00,override,Manual,
+109,05 A,2016-03-02 19:21:20,Transaction Processed,Leticia Nicholson,45297528300017,UVA Academic,0.00,0.00,normal,Barcode,3rd Party Media
+109,05 A,2016-03-02 19:21:20,media product UVA Academic Accepted,Leticia Nicholson,45297528300017,,0.00,0.00,,,
+109,05 A,2016-03-02 19:21:20,Barcode media has been swiped.,Leticia Nicholson,45297528300017,,0.00,0.00,,,
+109,05 A,2016-03-02 19:40:06,media product 24 Hour Full Accepted,Leticia Nicholson,CH301040810G32I0R041,,0.00,0.00,,,
+109,05 A,2016-03-02 19:40:06,Barcode media has been swiped.,Leticia Nicholson,CH301040810G32I0R041,,0.00,0.00,,,
+109,05 A,2016-03-02 19:40:06,Transaction Processed,Leticia Nicholson,CH301040810G32I0R041,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 19:42:10,Transaction Processed,Leticia Nicholson,4689,30 Day Full,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 19:42:10,media product  Accepted,Leticia Nicholson,4689,,0.00,0.00,,,
+109,05 A,2016-03-02 20:00:52,media product 24 Hour Full Accepted,Leticia Nicholson,CH3010B0EV0G32A13043,,0.00,0.00,,,
+109,05 A,2016-03-02 20:00:52,Barcode media has been swiped.,Leticia Nicholson,CH3010B0EV0G32A13043,,0.00,0.00,,,
+109,05 A,2016-03-02 20:00:52,Transaction Processed,Leticia Nicholson,CH3010B0EV0G32A13043,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 20:00:58,Transaction Processed,Leticia Nicholson,CH3010B0E10G32D0H048,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 20:00:58,media product 24 Hour Full Accepted,Leticia Nicholson,CH3010B0E10G32D0H048,,0.00,0.00,,,
+109,05 A,2016-03-02 20:00:58,Barcode media has been swiped.,Leticia Nicholson,CH3010B0E10G32D0H048,,0.00,0.00,,,
+109,05 A,2016-03-02 20:01:01,media product  Accepted,Leticia Nicholson,4201,,0.00,0.00,,,
+109,05 A,2016-03-02 20:01:01,Transaction Processed,Leticia Nicholson,4201,30 Day Full,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 20:08:57,Transaction Processed,Leticia Nicholson,CH3010207V0G3290E047,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 20:08:57,media product 24 Hour Full Accepted,Leticia Nicholson,CH3010207V0G3290E047,,0.00,0.00,,,
+109,05 A,2016-03-02 20:08:57,Barcode media has been swiped.,Leticia Nicholson,CH3010207V0G3290E047,,0.00,0.00,,,
+109,05 A,2016-03-02 20:15:36,media product  Accepted,Leticia Nicholson,775,,0.00,0.00,,,
+109,05 A,2016-03-02 20:15:36,Transaction Processed,Leticia Nicholson,775,30 Day Full,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 20:17:43,Transaction Processed,Leticia Nicholson,5705,30 Day Full,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 20:17:43,media product  Accepted,Leticia Nicholson,5705,,0.00,0.00,,,
+109,05 A,2016-03-02 20:17:51,media product UVA Academic Accepted,Leticia Nicholson,91583645000017,,0.00,0.00,,,
+109,05 A,2016-03-02 20:17:51,Barcode media has been swiped.,Leticia Nicholson,91583645000017,,0.00,0.00,,,
+109,05 A,2016-03-02 20:17:51,Transaction Processed,Leticia Nicholson,91583645000017,UVA Academic,0.00,0.00,normal,Barcode,3rd Party Media
+109,05 A,2016-03-02 20:17:56,Operator log off,Leticia Nicholson,,,0.00,0.00,,,
+109,05 A,2016-03-02 20:19:49,Valid logon,Trey Hanson,,,0.00,0.00,,,
+109,05 A,2016-03-02 20:29:06,Product or media invalid,Trey Hanson,,,0.00,0.00,,,
+109,05 A,2016-03-02 20:29:06,media product UVA Academic Accepted,Trey Hanson,73692110000017,,0.00,0.00,,,
+109,05 A,2016-03-02 20:29:06,Barcode media has been swiped.,Trey Hanson,73692110000017,,0.00,0.00,,,
+109,05 A,2016-03-02 20:29:06,Barcode media has been swiped.,Trey Hanson,7369211000001,,0.00,0.00,,,
+109,05 A,2016-03-02 20:29:06,Transaction Processed,Trey Hanson,73692110000017,UVA Academic,0.00,0.00,normal,Barcode,3rd Party Media
+109,05 A,2016-03-02 20:29:23,Transaction Processed,Trey Hanson,CH3010408V0G32A1A04B,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 20:29:23,media product 24 Hour Full Accepted,Trey Hanson,CH3010408V0G32A1A04B,,0.00,0.00,,,
+109,05 A,2016-03-02 20:29:23,Barcode media has been swiped.,Trey Hanson,CH3010408V0G32A1A04B,,0.00,0.00,,,
+109,05 A,2016-03-02 20:29:34,media product  Accepted,Trey Hanson,1250,,0.00,0.00,,,
+109,05 A,2016-03-02 20:29:34,Transaction Processed,Trey Hanson,1250,30 Day Full,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 20:31:56,Transaction Processed,Trey Hanson,1285,30 Day Full,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 20:31:56,media product  Accepted,Trey Hanson,1285,,0.00,0.00,,,
+109,05 A,2016-03-02 20:33:32,media product  Accepted,Trey Hanson,6272,,0.00,0.00,,,
+109,05 A,2016-03-02 20:33:32,Transaction Processed,Trey Hanson,6272,30 Day Full,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 20:35:54,Transaction Processed,Trey Hanson,6327,30 Day Full,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 20:35:54,media product  Accepted,Trey Hanson,6327,,0.00,0.00,,,
+109,05 A,2016-03-02 20:39:17,Quarter,Trey Hanson,,,0.00,0.00,,,
+109,05 A,2016-03-02 20:39:18,Quarter,Trey Hanson,,,0.00,0.00,,,
+109,05 A,2016-03-02 20:39:19,Quarter,Trey Hanson,,,0.00,0.00,,,
+109,05 A,2016-03-02 20:39:19,Transaction Processed,Trey Hanson,,One Ride Full,0.75,0.75,normal,Cash,Value
+109,05 A,2016-03-02 20:43:39,Dollar,Trey Hanson,,,0.00,0.00,,,
+109,05 A,2016-03-02 20:43:41,Quarter,Trey Hanson,,,0.00,0.00,,,
+109,05 A,2016-03-02 20:43:42,Quarter,Trey Hanson,,,0.00,0.00,,,
+109,05 A,2016-03-02 20:43:42,Daypass Issued,Trey Hanson,CH301090610G32K1B04T,,0.00,0.00,,,
+109,05 A,2016-03-02 20:43:42,Transaction Processed,Trey Hanson,CH301090610G32K1B04T,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 20:55:03,Transaction Processed,Trey Hanson,CH301060A10G32J0T045,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 20:55:03,media product 24 Hour Full Accepted,Trey Hanson,CH301060A10G32J0T045,,0.00,0.00,,,
+109,05 A,2016-03-02 20:55:03,Barcode media has been swiped.,Trey Hanson,CH301060A10G32J0T045,,0.00,0.00,,,
+109,05 A,2016-03-02 20:55:13,media product  Accepted,Trey Hanson,5924,,0.00,0.00,,,
+109,05 A,2016-03-02 20:55:13,Transaction Processed,Trey Hanson,5924,30 Day Full,0.00,0.00,normal,Smart Media,Time Based
+109,05 A,2016-03-02 20:56:17,Transaction Processed,Trey Hanson,CH3010906V0G32B0904H,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 20:56:17,media product 24 Hour Full Accepted,Trey Hanson,CH3010906V0G32B0904H,,0.00,0.00,,,
+109,05 A,2016-03-02 20:56:17,Barcode media has been swiped.,Trey Hanson,CH3010906V0G32B0904H,,0.00,0.00,,,
+109,05 A,2016-03-02 21:12:31,Change Route (05 A,Trey Hanson,,,0.00,0.00,,,
+109,05 A,2016-03-02 21:12:56,media product 24 Hour Full Accepted,Trey Hanson,CH3010408V0G32G1M040,,0.00,0.00,,,
+109,05 A,2016-03-02 21:12:56,Barcode media has been swiped.,Trey Hanson,CH3010408V0G32G1M040,,0.00,0.00,,,
+109,05 A,2016-03-02 21:12:56,Transaction Processed,Trey Hanson,CH3010408V0G32G1M040,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 21:19:29,media product 24 Hour Full Accepted,Trey Hanson,CH301060AV0G32B1504D,,0.00,0.00,,,
+109,05 A,2016-03-02 21:19:29,Barcode media has been swiped.,Trey Hanson,CH301060AV0G32B1504D,,0.00,0.00,,,
+109,05 A,2016-03-02 21:19:30,Transaction Processed,Trey Hanson,CH301060AV0G32B1504D,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 21:30:21,Transaction Processed,Trey Hanson,CH3010E0G10G32I1O04P,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 21:30:21,media product 24 Hour Full Accepted,Trey Hanson,CH3010E0G10G32I1O04P,,0.00,0.00,,,
+109,05 A,2016-03-02 21:30:21,Barcode media has been swiped.,Trey Hanson,CH3010E0G10G32I1O04P,,0.00,0.00,,,
+109,05 A,2016-03-02 21:30:30,media product 24 Hour Full Accepted,Trey Hanson,CH301090610G32K1B04T,,0.00,0.00,,,
+109,05 A,2016-03-02 21:30:30,Barcode media has been swiped.,Trey Hanson,CH301090610G32K1B04T,,0.00,0.00,,,
+109,05 A,2016-03-02 21:30:30,Transaction Processed,Trey Hanson,CH301090610G32K1B04T,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 21:49:34,Change Route (05 A,Trey Hanson,,,0.00,0.00,,,
+109,05 A,2016-03-02 21:52:24,media product UVA Academic Accepted,Trey Hanson,24537282300017,,0.00,0.00,,,
+109,05 A,2016-03-02 21:52:24,Barcode media has been swiped.,Trey Hanson,24537282300017,,0.00,0.00,,,
+109,05 A,2016-03-02 21:52:24,Transaction Processed,Trey Hanson,24537282300017,UVA Academic,0.00,0.00,normal,Barcode,3rd Party Media
+109,05 A,2016-03-02 21:58:33,Transaction Processed,Trey Hanson,CH3010408V0G32A1A04C,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 21:58:33,media product 24 Hour Full Accepted,Trey Hanson,CH3010408V0G32A1A04C,,0.00,0.00,,,
+109,05 A,2016-03-02 21:58:33,Barcode media has been swiped.,Trey Hanson,CH3010408V0G32A1A04C,,0.00,0.00,,,
+109,05 A,2016-03-02 21:58:44,Barcode media has been swiped.,Trey Hanson,CH3010B0E10G32L1D04I,,0.00,0.00,,,
+109,05 A,2016-03-02 21:58:45,media product 24 Hour Full Accepted,Trey Hanson,CH3010B0E10G32L1D04I,,0.00,0.00,,,
+109,05 A,2016-03-02 21:58:45,Transaction Processed,Trey Hanson,CH3010B0E10G32L1D04I,24 Hour Full,0.00,0.00,normal,Barcode,Time Based
+109,05 A,2016-03-02 21:59:24,Quarter,Trey Hanson,,,0.00,0.00,,,
+109,05 A,2016-03-02 21:59:25,Quarter,Trey Hanson,,,0.00,0.00,,,
+109,05 A,2016-03-02 21:59:27,Quarter,Trey Hanson,,,0.00,0.00,,,
+109,05 A,2016-03-02 21:59:27,Transaction Processed,Trey Hanson,,One Ride Full,0.75,0.75,normal,Cash,Value
+109,05 A,2016-03-02 22:02:59,Dollar,Trey Hanson,,,0.00,0.00,,,
+109,05 A,2016-03-02 22:03:00,Transaction Processed,Trey Hanson,,One Ride Full,0.75,0.75,normal,Cash,Value
+109,05 A,2016-03-02 22:03:01,Quarter,Trey Hanson,,,0.00,0.00,,,
+109,05 A,2016-03-02 22:03:02,Quarter,Trey Hanson,,,0.00,0.00,,,
+109,05 A,2016-03-02 22:03:03,Quarter,Trey Hanson,,,0.00,0.00,,,
+109,05 A,2016-03-02 22:03:03,Transaction Processed,Trey Hanson,,One Ride Full,0.75,0.75,normal,Cash,Value
+109,05 A,2016-03-02 22:03:05,Transaction Processed,Trey Hanson,,Unknown,0.00,0.25,cancel by driver,Cash,Value
+109,05 A,2016-03-02 22:03:05,Cancelled Transaction ($0.25),Trey Hanson,,,0.00,0.00,,,
+109,05 A,2016-03-02 22:47:51,Operator log off,Trey Hanson,,,0.00,0.00,,,
+109,0,2016-03-02 23:10:09,Front door opened,Default Default - (Inactive),,,0.00,0.00,,,
+109,0,2016-03-02 23:10:09,"Cashbox present, ID:05096009",Default Default - (Inactive),,,0.00,0.00,,,
+109,0,2016-03-02 23:10:31,Cashbox missing,Tasha Mccormick,,,0.00,0.00,,,
+109,0,2016-03-02 23:10:53,"Cashbox present, ID:05096009",Tasha Mccormick,,,0.00,0.00,,,
+109,0,2016-03-02 23:10:54,Front door closed,Tasha Mccormick,,,0.00,0.00,,,
