@@ -49,7 +49,7 @@ try:
 			tokenCount += 1
 	#insert all functionality here
 
-	print("# of Pennies: ", pennyCount)
+	print("\n# of Pennies: ", pennyCount)
 	print("# of Nickels: ", nickelCount)
 	print("# of Dimes: ", dimeCount)
 	print("# of Quarters: ", quarterCount)
@@ -68,10 +68,10 @@ try:
 				 (fiftyDollarCount*50) + (hundredDollarCount*100)
 except FileNotFoundError as e:
 	print("Could not find the file specified.")
-	var = input("Press 'Enter' to close")
+	var = input("\nPress 'Enter' to close")
 finally:
 	csvFile.close()
 	print("Total value in cash transactions: $", totalValue)
 
-var = input("Press 'Enter' to close")
+var = input("\nPress 'Enter' to close")
 
