@@ -25,7 +25,7 @@ try:
 			quarterCount = quarterCount + 1
 		elif ((row[3] == "Dollar") or(row[3] == "Dollar Coin")):
 			dollarCount = dollarCount + 1
-		elif (row[3] == "Two Dollar Coin"):
+		elif ((row[3] == "Two Dollar Coin") or (row[3] == "Two Dollar")):
 			twoDollarCount = twoDollarCount + 1
 		else:
 			print(row[3])
